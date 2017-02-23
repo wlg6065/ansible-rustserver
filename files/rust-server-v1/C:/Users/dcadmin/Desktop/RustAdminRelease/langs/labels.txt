@@ -1,0 +1,525 @@
+Killed with 
+ at 
+Start update
+Cancel
+Restore my configuration files after update.
+Update in progress
+Starting download
+Update failed. Can't open file
+Unzipping archive
+Creating install script
+Starting update
+Error while starting update.
+Downloaded size
+Download success.
+Download failed.
+Expire
+Never
+Refresh
+Filter
+Ban IP
+Timed Bans
+Ban SteamID
+RustAdmin DB sharing system
+New banned IP
+Test state
+Ban
+Auto refresh
+Login
+Password
+Status
+OK
+Error
+Click for help
+Type the reason
+Reason
+<Type the reason>
+Information
+Incorrect SteamID. A valid SteamID is composed of 17 digits.
+Create your account
+Go to Steam profile
+Go to RustAdminDB profile
+Copy SteamID
+Copy nickname
+Copy reason
+Copy IP
+Unban
+Share
+Unshare
+IP
+Ban Steam account
+Yes
+No
+Convert to permanent Ban
+Delete
+Never expire
+Expire on
+If a player joins the server with this IP, ban the associated steam account
+Create rule
+Incorrect IP.
+Rule created.
+Rule <u>not</u> created.
+Autobanned IP
+SteamId
+Nickname
+Bans RustAdmin
+Last known IP
+Type
+Shared ban
+Banned until
+Permanent
+Unan
+Disconnected
+Connecting
+Connected
+Disconnecting
+Show
+Hide
+Create filter
+Choose a preset filter
+Type your filter or choose a preset one in the list below
+New custom filter
+Invalid regular expression.
+The filter field cannot be empty.
+Save changes
+Edit custom filter
+Apply
+Restore default
+Console font
+Change console font
+Filters
+Search next
+Search previous
+Clear console
+Search logs
+No sound
+Chat
+Oxide
+Console
+The line contains
+The field above supports regular expressions as documented on 
+this page
+Color
+Play sound
+Apply on tabs
+Don't play sound
+Create new keyword
+Incorrect expression
+You need to select at least one tab where the highlight rule must be applied.
+The FPS graph feature is disabled. Please enable it under the settings tab.
+The following errors have been encountered in the last status response. The players listed below may have bad characters in their names which cause players list reading issues.
+Players list reading errors
+Server configuration
+Scheduled commands
+Triggered commands
+Console filters
+Highlight system
+Server time
+Crafting
+Cancel all
+Finish all
+Add
+Pvp
+Enable
+Disable
+Godmode
+Quick commands
+Airdrop
+Call
+Helidrop
+New command
+New filter
+Clear all
+Performances
+Server infos
+Detailed infos
+Weather / Environment
+Resources
+Auto
+Reset
+Refill resources, animals and collectables
+Save configuration
+Type a command to execute
+Type a chat message
+Server hostname
+Server URL
+Server description
+Server Image
+Animals move
+Animals AI
+Rain
+Fog
+Clouds
+Radiations
+Animals
+Collectable
+Admin chat
+Notice popup
+Server Config
+Server Infos
+The server description field is empty.
+The server url field is empty.
+The server image field is empty.
+The server hostname field is empty.
+Server Config 2
+Next execution date
+Command created.
+Command <u>not</u> created.
+Filter created.
+Filter <u>not</u> created.
+Expression added.
+Expression <u>not</u> added.
+Next execution date : never
+Edit
+Start now
+Command edited successfully.
+Command <u>not</u> edited.
+Filter edited successfully.
+Filter <u>not</u> edited.
+Keyword edited successfully.
+Keyword <u>not</u> edited.
+RustAdmin has found that it is not allowed to write into its own directory. You either need to run RustAdmin as Administrator, or install RustAdmin in a directory where it is allowed to write files.
+Players
+Bans
+Statistics
+Powered users
+Configuration
+About
+New !
+No stat recorded for this player.
+Connect
+Server
+Language
+Style
+Help and Support
+English
+Default
+Blue
+Black
+White
+Go to Oxide forum
+Warning
+You are connecting to your server via the 'Experimental' rcon type.
+The support for this rcon type has been discontinued and can cause instabilities and crashes.
+It is strongly advised to switch to the rcon type 'WebRcon' via the settings tab. You will need to configure your server variable rcon.web = 1 and restart your server so that the changes are taken into account.
+Switching to the WebRcon should not change anything on how you use your server and/or RustAdmin. It is just the most recent way of communication between your server and any RCON client.
+Please update the program first.
+Disconnect
+Time
+Connection failed
+Language updated. Restart RustAdmin to take the changes in account.
+Appearance updated. Restart RustAdmin to take the changes in account.
+Pending commands
+Player comments
+Comments
+Clear items list
+Clear offline players list
+Give to
+Give to me
+Give to all
+Save
+Convert
+Give objects
+Teleport
+Convert SteamID
+Options
+General
+Cheat
+Game
+Others
+Objects list to give
+Disconnected players
+Create a teleport point
+Player Infos
+Actions
+ID
+New give list
+Auto refresh players list
+Refresh interval in seconds
+Ping
+Connected since
+VAC bans
+Game bans
+RustAdmin bans
+Violations
+IP check
+Family share
+Health
+Level
+Unspent XP
+yes
+no
+days ago
+Information unavailable
+Information requested ...
+match(es)
+Don't spam the chat
+Too much spams
+Player VAC bans (%1) > %2
+Family share owner (%1) has too many VAC bans
+Player days since last VAC bans (%1) < %2
+Family share owner (%1) has too few days since last VAC ban
+Family share owner (%1) has too few days since last VAC bans
+Player RustAdminDB bans (%1) > %2
+Player Game bans (%1) > %2
+Family share owner (%1) has too many RustAdminDB bans
+Family shared accounts are not allowed.
+Hours on record
+Banned IP
+Too many violations
+If you disable the auto refresh, anti high ping... will be disabled.
+If you disable the auto refresh, features such as anti high ping, anti VAC bans,... will be disabled.
+Go to Family share owners Steam profile
+Kick
+Kick (with reason)
+Teleport me to this player
+Ban until (date)
+Teleport this player to me
+Clear from the list
+Copy family share ID
+Kills/Deaths history
+Mute voice
+Unmute voice
+Mute chat
+Unmute chat
+Kick/Ban
+Mute/Unmute
+Set marker
+Red
+Green
+Light Green
+Teal
+Yellow
+Purple
+Magenta
+Turquoise
+Orange
+None
+IP Warning
+Run search on
+Teleport to
+Reason :
+Ban until
+Are you sure ?
+List empty. First add items to the list.
+Type a save name
+Name
+Configuration saved.
+Configuration <u>not</u> saved.
+Invalid coordinates
+Type a name for this place
+This place already exists. Overwrite ?
+Place saved.
+Place <u>not</u> saved.
+Go to profile
+Unknown SteamID format
+User's details
+Display help
+All commands
+New
+User SteamID
+Username
+Unban anyone
+Unban only players he banned
+Mute
+Date
+Command
+This tab can be used to configure powered players (moderators).<br>Fill the field 'User SteamId' with the SteamID of the desired player and tick the rights you want to give to them.<br><br><u>Rights</u> :<br><br>- Ban : if checked the powered user can ban any player.<br>- Unban anyone : If checked the powered user can unban any previously banned players.<br>- Unban only players he banned : if checked the powered user can unban only the players that he has banned himself.<br>- Kick : if checked the powered user can kick any player.<br>- Mute : if checked the powered user can mute/unmute any player.<br><br><u>How the powered users execute an action ingame</u> :<br><br>The powered users have to type in the game chat commands formated like this : <b>!ra &lt;action&gt; &lt;steamID&gt; &lt;reason&gt;</b>.<br><br><u>Some examples below</u> :<br><br>- Ban the player with the steamID 12345678912345678 : !ra ban 12345678912345678 reason<br>- Unban the player with the steamID 12345678912345678 : !ra unban 12345678912345678 reason<br>- Kick the player with the steamID 12345678912345678 : !ra kick 12345678912345678 reason.<br>- Mute the player with the steamID 12345678912345678 : !ra mute 12345678912345678 reason.<br>- Unmute the player with the steamID 12345678912345678 : !ra unmute 12345678912345678 reason.<br><br>Don't forget the reason parameter for every command or it won't be executed. All players will see the command displayed in the game chat but if they are not powered users themselves they won't be able to use any command.
+The username field cannot be empty.
+The username already exists.
+The SteamId field cannot be empty.
+No permission selected.
+This SteamId is already configured
+Type a command to add
+Commands list (right click on a command to execute)
+The command field cannot be empty.
+Run
+The connection with the server has been lost. RustAdmin is trying to reconnect. Close this dialog to stop the reconnection process.
+Connection lost
+Every day
+Periodic
+Once
+Time / Period
+Commands
+You can execute several commands at once. Just seperate them with a ';'.
+Create command
+Edit scheduled command
+Create new scheduled command
+Incorrect command.
+The command will never be executed because the hour is in the past.
+Anti cheat
+Anti chat abuse
+Remote webclient
+Configure the remote access port and the remote access password if you want to connect to this RustAdmin instance from
+Remote access password
+Remote access port
+You must disconnect RustAdmin from the server before you can make any changes in the configuration
+New configuration
+Anti unauthorised admins
+Enter below the list of your admins/moderators SteamIDs. The SteamIDs must be seperated with a ';'. If you enable the checkbox above, all players getting Auth level 1 or 2 will be banned if their SteamID is not in this list.
+Anti high ping
+Write warnings in chat (may cause lag)
+Ping max
+Number of warnings
+Other
+Enable server FPS graph. Refresh interval X seconds
+My STEAMID
+Notify when 'admin' is pronounced by a player
+Prefix 'SERVER CONSOLE' messages with my nickname
+UTF8 mode
+Get the server time periodically
+Anticheat whitelist
+Enter below the list of steam IDs not affected by any Rustadmin's anticheat system. The steam IDs must be seperated with a ';'.
+Anticheat
+Autokick players without any SteamID
+Autokick players using Family Share
+Autoban players who kill at an invalid range according to the weapon they are using
+Check family share owner account for VAC or RustAdminDB bans
+Autoban players with more than X VAC bans
+Autoban players with less than X days since last VAC ban
+Autoban players with more than X Game bans
+Autoban players with more than X RustAdminDB bans
+Autoban players with more than X violations
+When a player is banned, also ban his IP for X hours
+Autokick players with less than X hours on reccord
+Anti bad language
+Words list
+Regex
+Number of warning(s) (0 = instant kick)
+Enter below the list of words leading to a kick (';' separated)
+Set below the kick reason
+RCON type
+Legacy
+Experimental
+WebRcon
+Anti chat spam
+Simple
+Advanced
+Analyze XX last messages for each player
+Violation detected if message rate exceeds XX per 10 seconds
+Violation detected if the same message is posted more than XX times
+Maximum violations acceptable
+You can use the following markers in the commands
+Each time a violation is detected the player get kicked
+After XX violations (set the threshold in the field opposite) the player is banned
+Execute the command below as first violation warning
+Execute the command below as warning between the first and the last violation
+Execute the command below after the last warning
+Auto connect at startup
+Auto reconnect
+Query port
+Server port
+Chat message regex
+Configure the regex used to parse chat messages below. You should not change this setting unless you know exactly what you are doing.
+Choose a preset
+Players Whitelist
+Enter the SteamID's of people allowed to join the server below. If someone tries to join the server and his SteamID is not in this list then he will get kicked instantly. The SteamID's must be seperated with a ';'.
+Anti invalid char in name
+Autokick players with a character in their name that RustAdmin cannot deal with
+Rcon port
+Enter below the regular expression. Syntax on
+The server is running in whitelist mode. You are not allowed to join it right now.
+Your name contains some invalid characters. Change it to play on this server.
+Bad language.
+Incorrect chat regular expression entered. Fix it before saving the configuration.
+Configuration name
+Type a name for the configuration
+Warning !
+Your bad language regular expression syntax is incorrect. The anti bad language check will be disabled.
+Test your regular expression syntax on
+The regular expression is invalid.
+The regular expression does not contain the named group
+The regular expression looks correct
+Send kills events to game chat
+Clear All data
+Click a player above to show extended informations
+Message format
+Kills events blacklist. Add in the list below the kills events that you don't want to be sent in the chat console.
+Special thanks to 
+ for their support which helped me to develop this module.
+Events for player
+ for their support which helped me to develop this module.<br><br>This tab gives you an access to the players statistics.<br><br><b>Warning ! Due to frequent server updates, some statistics may be broken</b>.<br><br>Rustadmin gives you the possibility to display these statistics on a website or anywhere else. To do this, rustadmin opens a port on your computer (8888 by default that you can tweak in the settings.ini file) on which you can send http requests.<br><br><u>List of endpoints implemented</u> :<br><br>- http://localhost:8888/getMyPlayers returns the steamID of all players currently recorded in the database.<br><br>- http://localhost:8888/getPlayersGlobalStats returns json formated data about all statistics for all players. This call is very demanding in terms of resources so don't call it too often or you will experience huge lags in RustAdmin.<br><br>- http://localhost:8888/getPlayerGlobalStats?id=78945612378945612 returns json formated data about the statistics of the given player steamID.
+SteamID
+PVP Kills
+PVP Deaths
+PVE Deaths
+Delete all player's data
+Are you sure ? This operation cannot be undone.
+Restart needed
+Please restart RustAdmin to take changes in account.
+players
+PVP kill
+PVE death
+PVP death
+Event type
+Killer/Killed
+Date of the event
+Type of event
+Reason of the death or player killed
+Unable to find the server's name
+Unable to find players count
+Error in line
+M
+Country
+Bans VAC
+Game Bans
+Hours on Record
+Hours on the server
+Last connection
+Marker associated with the player
+Player's SteamID
+Country where the player's IP is located
+Player's nickname
+Number of VAC ban(s) and the number of days since the last one.
+Number of Game bans(s)
+Number of ban(s) recorded on www.rustadmin.com
+Is this account a Family shared one
+Show the violations indicator sent by the server. A high number could indicate that the player is speedhacking, jumphacking or noclipping
+Current health of the player
+Player's unspent XP
+Current player level
+Total hours that the player has spent on Rust
+Total (estimated) hours that the player has spent on your server
+Player's ping
+Total time since players last connection
+Player's IP
+Player's last disconnection
+Private profile
+Command(s)
+Player SteamID
+Any
+Chat text regexp
+Chat text
+Population threshold
+Commands to execute over 
+Commands to execute under 
+On user logon
+On user logoff
+On chat text
+On helicopter drop
+On cargo plane drop
+On population changed
+Unknown
+The field above contains a regex
+Execute only for the player
+Execute only if the chat text is
+Command(s) to be executed under the population threshold
+Command(s) to be executed over the population threshold
+Command(s) to be executed
+Command cooldown in secconds
+The value 0 means no cooldown, the command is executed as often as it is trigggered.
+Type the command(s). Separate them with a ';'.
+Type the player's SteamID triggering the command. Leave this field empty to trigger on any players.
+Type the chat text triggering the command. Leave this field empty to trigger on any chat text.
+New triggered command
+Edit triggered command
+This feature can be used to execute commands when a given game event occurs.
+You can use
+or
+in your command. They will be replaced with the ID/the name of the player before to be executed.
+<u>Some examples below</u> :
+If you want to say hello when a player joins the server, type this text in the command field
+If you want to give an apple to a player joining the server, type this text in the command field
+Commands to be executed over and under the population threshold can't be both empty.
+Invalid SteamID entered. The field must be left empty or must contain a 17 digits SteamID.
+Invalid or empty regular expression entered.

@@ -1,0 +1,366 @@
+Start automatic update||Запуск автоматического обновления
+is a free software developped by ||это бесплатная программа созданная 
+All support requests should be posted at ||Все свои вопросы пишите 
+this link||по этой ссылке
+Nowadays, I don't play Rust anymore but I do still maintain RustAdmin and try to implement the majority of all your requested features.||В настоящее время я больше не играю в Rust, но я по-прежнему поддерживаю RustAdmin и пытаюсь реализовать большинство всех запрашиваемых функций
+All donations would be greatly apreciated!||Буду благодарен за любые пожертвования!
+The version ||Версия 
+ is available|| доступна
+Download link (manual install)||Загрузить (ручная установка)
+Unable to get the last version number||Не удалось получить номер последней версии
+Killed with ||Убит
+ at || в 
+Start update||Начать обновление
+Cancel||Отмена
+Restore my configuration files after update.||Восстановить мои файлы настроек после обновления
+Update in progress||Производится обновление
+Starting download||Запуск загрузки
+Update failed. Can't open file||Сбой обновления. Невозможно открыть файл
+Unzipping archive||Извлечение файлов
+Creating install script||Создание установочного скрипта
+Starting update||Запуск обновления
+Error while starting update.||Произошла ошибка во время запуска обновления
+Downloaded size||Загружено
+Download success.||Успешно загружено
+Download failed.||Загрузка не удалась
+Expire||Истекает
+Never||Никогда
+Refresh||Обновить
+Filter||Фильтр
+Ban IP||Забанить по IP адресу
+New banned IP||Добавить IP адрес
+Auto refresh||Автоматическое обновление
+SteamId||SteamID
+Nickname||Имя
+Reason||Причина
+Bans RustAdmin||Баны RustAdmin
+Other info||Другая информация
+Go to Steam profile||Профиль Steam
+Go to RustDB profile||Профиль RustDB
+Go to RustAdminDB profile
+Copy SteamID||Копировать SteamID
+Copy nickname||Копировать имя
+Copy reason||Копировать причину
+Unban||Разбанить
+IP
+Ban Steam account||Забанить Steam аккаунт
+Yes||Да
+No||Нет
+Delete||Удалить
+Never expire||Навсегда
+Expire on||Истекает
+If a player joins the server with this IP, ban the associated steam account||Если игрок зайдёт на сервер с этого IP адреса, забанить связанный аккаунт Steam
+Create rule||Создать правило
+Error||Ошибка
+Incorrect IP.||Некорректный IP адрес.
+Information||Информация
+Rule created.||Правило было создано.
+Rule <u>not</u> created.||Правило <u>не</u> было создано
+Autobanned IP
+Filters||Фильтры
+Search next||Найти далее
+Search previous||Найти ранее
+Clear console||Очистить консоль
+Search logs||Поиск по логам
+The line contains||Строка содержит
+The field above supports regular expressions as documented on ||Поле выше поддерживает регулярные выражения. Документация на 
+this page||этой странице
+Color||Цвет
+Play sound||Звук оповещения
+Create||Создать
+Don't play sound||Не проигрывать звук
+Save changes||Сохранить изменения
+Incorrect expression||Некорректное выражение
+No sound||Без звука
+Send||Отправить
+Others||Прочее
+Server configuration||Настройки сервера
+Scheduled commands||Запланированные команды
+Triggered commands||Команды выполняющиеся при определённых событиях
+Highlight system||Система подсветки текста
+Server time||Время на сервере
+Apply||Применить
+Crafting
+Cancel all||Отменить всё
+Finish all||Завершить всё
+Add||Добавить
+Pvp
+Enable||Включить
+Disable||Отключить
+Godmode||Режим бога
+Airdrop
+Call||Вызвать
+Helidrop
+Ban STEAMID||Бан по SteamID
+Ban||Бан
+New command||Новая команда
+Performances||Производительность
+Server infos||Информация о сервере
+Weather / Environment||Погода/Окружающая среда
+Resources||Ресурсы
+Auto
+Reset
+Save configuration||Сохранить конфигурацию
+Server URL||Сайт сервера
+Server description||Описание сервера
+Server Image||Изображение сервера
+Animals move||Перемещение животных
+Animals AI||ИИ животных
+Rain||Дождь
+Fog||Туман
+Clouds||Облака
+Radiations||Радиация
+Animals||Животные
+Collectable
+Admin chat||Чат
+Notice popup||Всплывающее сообщение
+Command||Консольная команда
+Console||Консоль
+Server Config||Настройки сервера
+The server description field is empty.
+The server url field is empty.
+The server image field is empty.
+Server Config 2||Конфигурация сервера
+Type the reason||Причина
+<Type the reason>||<Впишите причину>
+Incorrect SteamID. A valid SteamID is composed of 17 digits.||Некорректный SteamID. SteamID должен состоять из 17 цифр.
+Next execution date||Дата следующего выполнения
+Command created.||Команда создана
+Command <u>not</u> created.||Команда <u>не</u> была создана.
+Expression added.||Выражение добавлено.
+Expression <u>not</u> added.||Выражение <u>не</u> было добавлено.
+Next execution date : never||Дата следующего выполнения : никогда
+Edit||Редактировать
+Start now||Выполнить сейчас
+Command edited successfully.||Команда успешно отредактирована
+Command <u>not</u> edited.||Команда <u>не</u> отредактирована
+Keyword edited successfully.||Успешно отредактировано
+Keyword <u>not</u> edited.||<u>Не<u/> отредактировано
+Players||Игроки
+Bans||Баны
+Statistics||Статистика
+Powered users||Уполномоченные игроки
+Configuration||Настройки
+Logs||Логи
+About||О программе
+New !||Новая версия доступна для скачивания!
+You can now visit||Вы можете перейти на сайт
+to get the last RustAdmin version.||для получение последней версии.
+The RustAdmin's webclient is also available at||RustAdmin веб-клиент доступен по адресу
+Server||Сервер
+Language||Язык
+Style||Стиль
+Connect||Подключиться
+English
+Default||Стандартный
+Blue||Синий
+Black||Чёрный
+White||Белый
+Disconnected||Отключено
+Disconnecting||Отключение
+Please update the program first.
+Connecting||Подключение
+Disconnect||Отключиться
+Connected||Подключён
+Connection failed||Ошибка подключения
+Language updated. Restart RustAdmin to take the changes in account.||Язык был изменён. Перезапустите RustAdmin для применения изменений.
+Appearance updated. Restart RustAdmin to take the changes in account.||Стиль был изменён. Перезапустите RustAdmin для применения изменений.
+Clear items list||Очистить список объектов
+Clear offline players list||Очистить список отключённых игроков
+Give to||Дать
+Give to me||Дать себе
+Give to all||Дать всем
+Save||Сохранить
+Convert||Конвертировать
+Give objects||Раздача предметов
+Teleport||Телепорт
+Convert SteamID||Конвертировать SteamID
+Objects list to give||Список объектов для раздачи
+Disconnected players||Отключённые игроки
+Create a teleport point||Создать точку телепортации
+ID
+M
+Country||Страна
+Bans VAC||Баны VAC
+Bans RustDB||Баны RustDB
+Family share
+Violations||Нарушения
+Hours on Record||В игре (всего часов)
+Ping||Пинг
+Last connection||Последнее подключение
+New give list||Новый список предметов для раздачи
+Don't spam the chat
+Too much spams
+ (%1 day(s) ago)|| (%1 день(дней) назад)
+Player VAC bans (%1) > %2||Баны VAC игрока (%1) > %2
+Player RustDB bans (%1) > %2||Баны RustDB игрока (%1) > %2
+Player RustAdminDB bans (%1) > %2
+Family shared accounts are not allowed.
+Too many violations
+Banned IP||Забаненые IP адреса
+Private profile
+Warning||Предупреждение
+If you disable the auto refresh, anti high ping... will be disabled.||Если вы отключите автообновление, anti high ping будет отключён.
+If you disable the auto refresh, features such as anti high ping, anti rustDb bans, anti VAC bans,... will be disabled.||Если вы отключите автообновление, функции типа anti high ping, anti RustDB bans, anti VAC bans будут отключены.
+Go to Family share owners Steam profile
+Copy IP||Копировать IP
+Kick
+Kick (with reason)
+Teleport me to this player||Телепортировать меня к этому игроку
+Teleport this player to me||Телепортировать этого игрока ко мне
+Ban (with reason)||Забанить (с причиной)
+Clear from the list||Убрать из списка
+Copy family share ID
+Set marker
+Red
+Green
+Yellow
+None
+Teleport to||Телепортировать к
+Reason :||Причина:
+List empty. First add items to the list.||Список пуст. Сначала добавьте в него предметы
+Type a save name||Впишите название сохранения
+Name||Имя
+Configuration saved.||Настройки были сохранены
+Configuration <u>not</u> saved.||Настройки <u>не</u> были сохранены
+Invalid coordinates||Неверные координаты
+Type a name for this place||Введите название точки
+This place already exists. Overwrite ?||Такая точка уже существует. Перезаписать?
+Place saved.||Точка сохранена
+Place <u>not</u> saved.||Точка <u>не</u> сохранена
+Go to profile||Перейти к профилю
+Unknown SteamID format||Неизвестный формат SteamID
+User's details||Сведения о пользователе
+Display help||Помощь
+All commands||Все команды
+New||Новое
+User SteamID
+Username||Имя
+Unban anyone||Разбан всех
+Unban only players he banned||Разбан игроков, которых он забанил
+Date||Дата
+This tab can be used to configure powered players (moderators).<br>Fill the field 'User SteamId' with the SteamID of the desired player and tick the rights you want to give to them.<br><br><u>Rights</u> :<br><br>- Ban : if checked the powered user can ban any player.<br>- Unban anyone : If checked the powered user can unban any previously banned players.<br>- Unban only players he banned : if checked the powered user can unban only the players that he has banned himself.<br>- Kick : if checked the powered user can kick any player.<br><br><u>How the powered users execute an action ingame</u> :<br><br>The powered users have to type in the game chat commands formated like this : <b>!ra &lt;action&gt; &lt;steamID&gt; &lt;reason&gt;</b>.<br><br><u>Some examples below</u> :<br><br>- Ban the player with the steamID 12345678912345678 : !ra ban 12345678912345678 reason<br>- Unban the player with the steamID 12345678912345678 : !ra unban 12345678912345678 reason<br>- Kick the player with the steamID 12345678912345678 : !ra kick 12345678912345678 reason.<br><br>Don't forget the reason parameter for every command or it won't be executed. All players will see the command displayed in the game chat but if they are not powered users themselves they won't be able to use any command.||Эта вкладка может быть использована для настройки уполномоченных игроков (модераторов).<br>Заполните поле 'SteamID' желаемого игрока и отметьте права, которые вы хотите им дать.<br><br><u>Права</u> :<br><br>- Бан : игрок может банить других<br>- Разбан всех : игрок может разбанивать всех ранее забаненых игроков<br>- Разбан игроков, которых он забанил : игрок может разбанить только тех игроков, которых сам забанил<br>- Кик : игрок может кикать других<br><br><u>Как можно выполнить команду из игры</u> :<br><br>Для этого предоставляется команда чата !ra &lt;action&gt; &lt;steamID&gt; &lt;reason&gt;<br><br><u>Примеры</u> :<br><br>- Забанить игрока с steamID 12345678912345678 : !ra ban 12345678912345678 reason<br>- Разбанить игрока с steamID 12345678912345678 : !ra unban 12345678912345678 reason<br>- Кикнуть игрока с steamID 12345678912345678 : !ra kick 12345678912345678 reason<br><br>Не забывайте вписывать причину, иначе команда не будет выполнена. Все игроки будут видеть команду, отображаемую в игровом чате, но если они не уполномоченны, они не будут в состоянии использовать её.
+The username field cannot be empty.||Поле 'Имя' не может быть пустым
+The username already exists.||Такое имя уже существует
+The SteamId field cannot be empty.||Поле 'SteamID' не может быть пустым
+No permission selected.||Не выбраны права
+This SteamId already exists.||Такой SteamID уже существует
+Every day||Каждый день
+Periodic||Периодически
+Once||Один раз
+Time / Period||Время / Период
+Commands||Команды
+Type||Тип
+You can execute several commands at once. Just seperate them with a ';'.||Чтобы выполнить несколько комманд за один раз разделяйте их знаком ';'.
+Create command||Создать команду
+Incorrect command.||Некорректная команда
+The command will never be executed because the hour is in the past.||Команда никогда не будет выполнена, так как время уже прошло.
+Other||Другое
+Anticheat
+Anti high ping
+Anti bad language||Фильтр слов
+Anti chat spam||Чат-антиспам
+Anticheat whitelist
+Anti unauthorised admins
+Legacy
+Experimental
+Regex||Регулярные выражения (Regex)
+Words list||Список слов
+Auto connect at startup||Автоматическое подключение при запуске
+Auto reconnect||Автоматическое переподключение
+Enter below the list of steam IDs not affected by any Rustadmin's anticheat system. The steam IDs must be seperated with a ';'.||Введите SteamID тех игроков, на которых не будет влиять RustAdmin anticheat system, разделяя их символом ';'
+Enter below the list of your admins/moderators SteamIDs. The SteamIDs must be seperated with a ';'. If you enable the checkbox above, all players getting Auth level 1 or 2 will be banned if their SteamID is not in this list.
+Query port||Порт запросов (RCON?)
+Analyze XX last messages for each player
+Kick if message rate exceeds XX per 10 seconds
+Kick if the same message is posted more than XX times
+Ban the players after XX kicks
+Enable auto ban players having more than X VAC bans
+Enable auto ban players having more than X violations
+Enable auto ban players having more than X RustAdminDB bans
+Enable when a player is banned, also ban his IP for X hours
+Enable auto ban players having more than X RustDB bans
+Number of warning(s) (0 = instant kick)
+Enter below the list of words leading to a kick (';' separated)||Введите список слов, которые будут сопровождаться киком (разделяя знаком ';')
+New configuration||Новые настройки
+Server port||Порт сервера
+Password||RCON пароль
+Write warnings in chat (may cause lag)||Писать предупреждения в чат (может сопровождаться лагами)
+Ping max||Максимальный пинг
+Number of warnings||Количество предупреждений
+My STEAMID||Мой SteamID
+Notify when 'admin' is pronounced by a player||Уведомлять меня, когда слово 'admin' было напечатано в чате
+Prefix 'SERVER CONSOLE' messages with my nickname||Использовать префикс 'SERVER CONSOLE' с моим именем
+UTF8 mode||Режим UTF-8
+Remote access password
+Remote access port
+Auto kick players without any SteamID (Legacy only)
+Auto kick players using Family Share
+Auto ban players who kill at an invalid range according to the weapon they are using (Legacy only)
+Rcon port||RCON порт
+Enter below the regular expression. Syntax on||Введите регулярное выражение. Синтаксис на
+Configuration name
+Type a name for the configuration
+Warning !
+Your bad language regular expression syntax is incorrect. The anti bad language check will be disabled.
+Test your regular expression syntax on
+Send kills events to game chat||Отправлять оповещения об убийствах в чат
+Clear All data (can't be undone)||Очистить все данные (невозможно отменить)
+Message format||Формат оповещения
+Kills events blacklist. Add in the list below the kills events that you don't want to be sent in the chat console.
+Kills
+Sleepers kills
+Killed by player
+Suicides
+Bleedings
+Drowing
+Hunger
+Thirst
+Cold
+Heat
+Falls
+Poison
+Wolf
+Bear
+Campfire
+Floor spikes
+Bear trap
+Metal Barricade
+Wooden Barricade
+Barbed Wooden Barricade
+Code Lock
+Explosion
+Landmine
+Incendiary Damage
+Rocket Fire
+Rocket
+High Velocity Rocket
+Special thanks to ||Особая благодарность 
+ for their support which helped me to develop this module.|| за их помощь в разработке этого модуля.
+ for their support which helped me to develop this module.<br><br>This tab gives you an access to the players statistics.<br><br><b>Warning ! Due to frequent server updates, some statistics may be broken</b>.<br><br>Rustadmin gives you the possibility to display these statistics on a website or anywhere else. To do this, rustadmin opens a port on your computer (8888 by default that you can tweak in the settings.ini file) on which you can send http requests.<br><br><u>List of endpoints implemented</u> :<br><br>- http://localhost:8888/getPlayersGlobalStats returns json formated data about all statistics for all players (except details about kills and deaths).<br><br>- http://localhost:8888/getPlayerGlobalStats?id=78945612378945612 returns json formated data about the statistics of the given player steamID (except details about kills and deaths).<br><br>- http://localhost:8888/getPlayerKillsHistory?ids=78945612378945612;78945612312345678 returns json formated data about kills and deaths of the given players steamIDs.
+Delete all player's data
+Are you sure ?||Вы уверены?
+Event type||Тип события
+Player SteamID
+Any
+Command(s)
+Chat text
+On user logon||При входе игрока
+On user logoff||При выходе игрока
+On chat text||При отправке сообщения в чате
+Unknown
+Execute only if the chat text is||Выполнить только если сообщение в чате
+Type the command(s). Separate them with a ';'.||Впишите команду(ы). Разделяйте несколько комманд знаком ';'
+Type the player's SteamID triggering the command. Leave this field empty to trigger on any players.||Если необходимо, впишите SteamID игрока
+Type the chat text triggering the command. Leave this field empty to trigger on any chat text.||Впишите текст, при котором будет выполняться команда(ы)
+Execute only for the player||Выполнять только для определённого игрока
+Command(s) to be executed||Комманда(ы)
+This feature can be used to execute commands when a given game event occurs.
+You can use
+or
+in your command. They will be replaced with the ID/the name of the player before to be executed.
+<u>Some examples below</u> :
+If you want to say hello when a player joins the server, type this text in the command field
+If you want to give an apple to a player joining the server, type this text in the command field
+Invalid SteamID entered. The field must be left empty or must contain a 17 digits SteamID.
+The command field cannot be empty.

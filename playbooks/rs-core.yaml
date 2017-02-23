@@ -1,0 +1,9 @@
+- name: Install Microsoft Visual C++ Runtime
+  hosts: rustservers
+  tasks:
+    - name: Install Visual C++ 2010 Redistributable Package (x86)
+      win_package:
+        name: Visual C++ 2010 Redistributable Package (x86)
+        path: https://download.microsoft.com/download/4/D/0/4D00D6C0-09FC-446C-AE9C-C923AF2DF29A/vcredist_x86.exe
+        product_id: '{196BB40D-1578-3D01-B289-BEFC77A11A1E}'
+        arguments: /install /passive

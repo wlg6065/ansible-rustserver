@@ -1,0 +1,7 @@
+- name: Run Powershell Scripts
+  hosts: rustservers
+  tasks:
+    - name: Get system information
+      script: /ansible-rustserver/scripts/sysinfo.ps1
+      register: out
+    - debug: var=out

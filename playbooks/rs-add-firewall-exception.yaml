@@ -1,0 +1,20 @@
+- name: Add firewall exception for {{ fw_description }} (TCP)
+  ignore_errors: yes
+  win_firewall_rule:
+    name: "{{ fw_description }} TCP exception"
+    enable: yes
+    state: present
+    action: allow
+    direction: in
+    protocol: TCP
+    program: "{{ fw_program }}"
+- name: Add firewall exception for {{ fw_description }} (UDP)
+  ignore_errors: yes
+  win_firewall_rule:
+    name: "{{ fw_description }} UDP exception"
+    enable: yes
+    state: present
+    action: allow
+    direction: in
+    protocol: UDP
+    program: "{{ fw_program }}"

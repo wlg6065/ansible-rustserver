@@ -1,0 +1,12 @@
+- name: Setup Steam CLI client
+  hosts: rust4
+  tasks:
+    - name: Add firewall exception for steamcmd.exe (TCP)
+      include: rs-add-firewall-exception.yaml
+      vars:
+        fw_description: steamcmd.exe
+        fw_program: C:\RustServer\steamcmd\steamcmd.exe
+    - name: Execute steamcmd.exe for first time
+      win_shell: C:\RustServer\steamcmd\steamcmd.exe +quit
+      register: shell_output
+      failed_when: shell_output.rc >= 2

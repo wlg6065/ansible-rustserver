@@ -1,0 +1,485 @@
+/*
+ * Couleur défaut fond widget              111111
+ * contour widgets desactives              95a5a6
+ * couleur bouton hover                    FF1303
+ * couleur boutons                         C71303
+ * titre groupbox                          C0C0C0
+ * bg des groupbox                         222222
+ */
+ 
+QWidget {
+   background-color: white;
+   border:none;   
+   color:#424E5B;
+}
+
+QWidget:disabled{
+   color: #C0C0C0;
+}
+
+QToolTip {
+   background-color: white;
+   color:#424E5B;
+   border: 1px solid #424E5B;
+}
+
+QMenuBar {
+   background-color: #424E5B;
+   font-weight:bold;
+   color:white;
+}
+
+QMenuBar::item {
+   background-color: #424E5B;
+   font-weight:bold;
+   color:white;
+   padding:6px 10px 6px 10px;
+}
+
+QMenuBar::item:selected { /* when selected using mouse or keyboard */
+   background-color: white;
+   font-weight:bold;
+   color:#111111;
+}
+
+QMenu{
+   color:#FF1303;
+   font-weight:bold;
+}
+
+QMenu::item{
+   background-color: #C0C0C0;
+   color:#111111;
+}
+
+QMenu::item:selected{
+   color:white;
+   font-weight:bold;
+}
+
+QMenu::separator {
+     height: 1px;
+     margin: 0px 0px 0px 0px;
+ }
+
+QHeaderView::section {
+   background-color: white;
+   color: #424E5B;
+   font-weight:bold;
+   padding-left: 4px;
+   padding-right: 4px;
+   border: 1px solid #C0C0C0;
+}
+
+QHeaderView::section:disabled {
+   color:#C0C0C0;
+}
+
+QTabWidget::tab-bar {
+   top:0;
+   bottom:0;
+   border:none;
+   padding:0;
+   margin:0;
+}
+
+QTabWidget::pane{
+   border:none;
+}
+
+
+QTabBar::tab {
+   background-color:none;
+   border:none;
+   font-weight:bold;
+   font-size:14px;
+   padding:8px;
+   height:30px;
+   color:#95a5a6;
+}
+
+
+QTabBar::tab:selected {
+   color:#424E5B;
+}
+
+QTabBar::tab:hover {
+   color:#424E5B;
+}
+
+QTabBar::tab:disabled {
+   color:#C0C0C0;
+}
+
+#LogsSubTabs QTabBar::tab {
+   font-size:12px;
+   padding:3px;
+   width:100px;
+}
+
+#PlayersSubTabs QTabBar::tab {
+    font-size:12px;
+    padding:3px;
+    width:100px;
+}
+
+#SettingsSubTabs QTabBar::tab {
+   font-size:12px;
+   padding:3px;
+   height:100px;
+}
+
+#TabsLeftLogsTab QTabBar::tab {
+   font-size:12px;
+   padding:3px;
+   height:100px;
+   background-color:#EEEEEE;
+   padding-right:8px;
+   padding-left:10px;
+   border-right:1px solid white;
+   border-bottom:1px solid white;
+}
+
+#CloseBtn {
+   font-weight:bold;
+}
+
+QScrollBar:vertical {
+   border:none;
+   width: 10px;
+   margin: 22px 0 22px 0;
+}
+
+QScrollBar:horizontal {
+   border:none;
+   height: 10px;
+   margin: 0 22px 0 22px;
+}  
+
+QScrollBar::handle:vertical{
+   background: #424E5B;
+   min-height: 20px;
+}
+
+QScrollBar::handle:horizontal {
+   background: #424E5B;
+   min-width: 20px;
+}
+
+QScrollBar::add-line:vertical{
+   border:none;
+   width: 10px;
+   background: #424E5B;
+   height: 20px;
+   subcontrol-position: bottom;
+   subcontrol-origin: margin;
+}
+
+QScrollBar::add-line:horizontal {
+   border:none;
+   width: 20px;
+   background: #424E5B;
+   height: 10px;
+   subcontrol-position: right;
+   subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:vertical{
+   border:none;
+   width: 10px;
+   background: #424E5B;
+   height: 20px;
+   subcontrol-position: top;
+   subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:horizontal {
+   border:none;
+   width: 20px;
+   background: #424E5B;
+   height: 10px;
+   subcontrol-position: left;
+   subcontrol-origin: margin;
+}  
+
+QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical{
+   border:none;
+   width: 3px;
+   height: 3px;
+   background: white;
+}
+
+QScrollBar::left-arrow:horizontal, QScrollBar::right-arrow:horizontal {
+   border:none;
+   width: 3px;
+   height: 3px;
+   background: white;
+}  
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical{
+   background: #C0C0C0;
+}
+
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
+   background: #C0C0C0;
+}
+
+QPushButton {
+   background-color: #424E5B;
+   border: none;
+   height:22px;
+   padding-left:10px;
+   padding-right:10px;
+   color:white;
+}
+
+QPushButton:hover {
+   background-color: #626E7B;
+}
+
+QPushButton:flat {
+   border: none; /* no border for a flat push button */
+}
+
+
+QComboBox::down-arrow {
+   image: url(:/images/CombodownArrowGray.png);
+   
+}
+
+QComboBox::down-arrow:disabled{
+   image: url(:/images/CombodownArrowGrayDisabled.png);
+}
+
+QComboBox::drop-down {
+   subcontrol-origin: padding;
+   subcontrol-position: top right;
+   padding-right:5px;
+   width: 15px;
+   border:none;
+}
+
+QSpinBox::up-button{
+   subcontrol-origin: border;
+   subcontrol-position: top right; 
+   border: 1px solid #95a5a6;
+}
+
+QSpinBox::down-button {
+   subcontrol-origin: border;
+   subcontrol-position: bottom right; 
+   border: 1px solid #95a5a6;
+}
+ 
+QSpinBox::up-arrow:disabled{ 
+   image: url(:/images/SpinUpGrayDisabled.png);
+}
+
+QSpinBox::down-arrow:disabled{ 
+   image: url(:/images/SpinDownGrayDisabled.png);
+}
+
+QSpinBox::up-arrow {
+   image: url(:/images/SpinUpGray.png);
+}
+
+QSpinBox::down-arrow {
+   image: url(:/images/SpinDownGray.png);
+}
+ 
+QSpinBox::down-button:pressed, QSpinBox::up-button:pressed {
+   background-color:#C0C0C0;
+   border: 1px solid #95a5a6;
+} 
+ 
+ 
+QSpinBox::up-button{
+   subcontrol-origin: border;
+   subcontrol-position: top right; 
+   border: 1px solid #95a5a6;
+}
+
+QDateTimeEdit::up-button, QTimeEdit::up-button{
+   subcontrol-origin: border;
+   subcontrol-position: top right; 
+   border: 1px solid #95a5a6;
+}
+
+QDateTimeEdit::down-button, QTimeEdit::down-button {
+   subcontrol-origin: border;
+   subcontrol-position: bottom right; 
+   border: 1px solid #95a5a6;
+}
+ 
+QDateTimeEdit::up-arrow:disabled, QTimeEdit::up-arrow:disabled{
+   image: url(:/images/SpinUpGrayDisabled.png);
+}
+
+QDateTimeEdit::down-arrow:disabled, QTimeEdit::down-arrow:disabled{
+   image: url(:/images/SpinDownGrayDisabled.png);
+}
+
+QDateTimeEdit::up-arrow, QTimeEdit::up-arrow {
+   image: url(:/images/SpinUpGray.png);
+}
+
+QDateTimeEdit::down-arrow, QTimeEdit::down-arrow {
+   image: url(:/images/SpinDownGray.png);
+}
+ 
+QDateTimeEdit::down-button:pressed, QDateTimeEdit::up-button:pressed, QTimeEdit::down-button:pressed, QTimeEdit::up-button:pressed {
+   background-color:#C0C0C0;
+   border: 1px solid #95a5a6;
+}
+ 
+ 
+QLineEdit , QSpinBox, QTimeEdit, QDateTimeEdit, QComboBox {
+   border: 1px solid #95a5a6;
+   min-height:20px;
+   background-color:white;
+}
+
+QPlainTextEdit, #ClearBackgroundWidget{
+   background-color:#EEEEEE;
+}
+
+#BadLanguageTextEdit, #WhitelistTextEdit, #PlayersWhitelistTextEdit, #TrustedAdminsTextEdit, #ChatRegexTextEdit, #PlayersCommentsTextEdit {
+   background-color:white;
+}
+
+QLabel, QCheckBox, QRadioButton {
+   min-height:20px;
+   background-color: none;
+   font-weight:bold;
+}
+
+QGroupBox {
+   background-color: #EEEEEE;
+   border: none;
+   color:white;
+   margin-top: 30px; /* leave space at the top for the title */
+}
+
+QGroupBox::title {
+   subcontrol-origin: margin;
+   subcontrol-position: top left; /* position at the top center */
+   height:15px;
+   color:#111111;
+   padding: 7 20000 7 7;
+   background-color: #C0C0C0;
+   width:150px;
+}
+
+QFormLayout {
+   background-color: #222222;
+}
+
+QTabWidget {
+   border:none;
+}
+
+QTableView {
+   alternate-background-color:#C0C0C0;
+}
+
+QTableCornerButton::section
+{
+   background-color:#424E5B;
+}
+
+QStatusBar {
+   background-color:#424E5B;
+   border-top: 1px solid #95a5a6;
+}
+
+QStatusBar::item {
+   border:none;
+}
+
+QStatusBar QLabel {
+   padding-left:5px;
+}
+
+#donateLink {
+   background:transparent;
+   font-weight:bold;
+   left:5px;
+}
+
+#donateLink:hover {
+   color:#95a5a6;
+}
+
+QDialog{
+   border: 1px solid #424E5B;
+   color:white;
+}
+
+QMessagBox{
+   border: 1px solid #424E5B;
+   color:white;
+}
+
+QFrame#vbarTitle {
+   background-color:white;
+   margin-top:2px;
+}
+
+QLabel#barTitle {
+   color:white;
+}
+
+QStatusBar > QLabel {
+   color:white;
+}
+
+QStatusBar > QWidget > QLabel {
+   color:white;
+}
+
+QWidget#rightButtons > QPushButton {
+   height:25px;
+   color:white;
+}
+
+QSizeGrip {
+   background:transparent;
+   image: url(:/images/sizeGripWhite.png);
+   width: 16px;
+   height: 16px;
+}
+
+QSplitter::handle {
+   /* it is normal that the disabled file is not for disabled case */
+   image: url(:/images/SplitterHandleDisabled.png);
+   padding-left:7px;
+}
+
+QSplitter::handle:disabled{
+   image: url(:/images/SplitterHandleDisabled2.png);
+   padding-left:7px;
+}
+
+QSplitter::handle:horizontal {
+    width: 5px;
+}
+
+QSplitter::handle:vertical {
+    height: 5px;
+}
+
+#infosZone {
+   border: 1px solid #424E5B;
+}
+
+QMainWindow {
+   border-left:1px solid #C0C0C0;
+   border-right:1px solid #C0C0C0
+}
+
+#topLeftLogo {
+   padding-left:8px;
+   padding-right:8px;
+   padding-top:2px;
+   padding-bottom:2px;
+}

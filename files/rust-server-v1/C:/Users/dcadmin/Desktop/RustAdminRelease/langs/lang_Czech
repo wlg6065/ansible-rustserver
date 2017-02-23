@@ -1,0 +1,563 @@
+﻿Start automatic update||Spustit automatický update
+is a free software developped by ||software zdarma vyvinutý 
+All support requests should be posted at ||Všechna podpora by měla být zveřejněna na 
+this link||tomto odkaze
+Nowadays, I don't play Rust anymore but I do still maintain RustAdmin and try to implement the majority of all your requested features.||Nyní již nehraji Rust ale stále udržuji RustAdmin a snažím se vkládat všechny žádané funkce.
+All donations would be greatly apreciated!||Važíme si veškeré podpory!  Překlad do češtiny by DavomutCZ <a href="http://www.mics-games.eu/kontakt" target="_blank">kontakt</a> verze 1.6
+The version ||Verze 
+ is available|| je dostupná
+Download link (manual install)||Odkaz ke stažení (manualní instalace)
+Unable to get the last version number||Nepodařilo se získat číslo poslední verze
+Killed with ||Zabit 
+ at || na 
+Start update||Spustit aktualici
+Cancel||Zrušit
+Restore my configuration files after update.||Obnov mou konfiguraci po aktualizaci
+Update in progress||Aktualizace probíhá
+Starting download||Spouštím stahování
+Update failed. Can't open file||Chyba aktualizace. Nelze otevrít složka
+Unzipping archive||Rozbalování archívu
+Creating install script||Vytvořit instalaci skriptu
+Starting update||Spouštím aktualizaci
+Error while starting update.||Chyba během startu aktualizace.
+Downloaded size||Stažená velikost
+Download success.||Stažení úspěšné.
+Download failed.||Stahování selhalo.
+Expire||Vyprší
+Never||Nikdy
+Refresh||Obnovit
+Filter||Filtr
+Ban IP
+Ban SteamID
+RustAdmin DB sharing system||RustAdmin DB sdílený system
+New banned IP||Nová zabanovaná IP
+Test state||Test stavu
+Ban
+Auto refresh||Automatické obnovení
+Login||Přihlášení
+Password||Heslo
+Status
+OK
+SteamId
+Nickname||Nick
+Reason||Důvod
+Bans RustAdmin||RustAdmin bany
+Last known IP||Poslední známá IP
+Shared Ban||Sdílený Ban
+Shared ban||Sdílený ban
+Other info||Ostatní informace
+Yes||Ano
+yes||ano
+No||Ne
+no||ne
+match(es)||shoda/y
+Error||Chyba
+Click for help||Klikni pro nápovědu
+Type the reason||Napiš důvod
+<Type the reason>||<Napiš důvod>
+Information||Informace
+Incorrect SteamID. A valid SteamID is composed of 17 digits.||Nesprávné SteamID. Správné StamID obsahuje 17 znaků/čísel.
+Create your account||Vytvoř svůj účet
+Go to Steam profile||Jdi na Stam profil
+Go to RustDB profile||Jdi na RustDB profil
+Go to RustAdminDB profile||Jdi na RustAdminDB profil
+Copy SteamID||Kopírovat SteamID
+Copy nickname||Kopírovat nick
+Copy reason||Kopírovat důvod
+Unban||Odbanovat
+Share||Sdílet
+Unshare||Odsdílet
+IP
+Ban Steam account||Ban Steam účtu
+Delete||Smazat
+Never expire||Nikdy nevyprší
+Expire on||Vyprší
+If a player joins the server with this IP, ban the associated steam account||Pokud se hráč připojí s touto IP, dostane ban na Steam účet
+Create rule||Vytvořit pravidlo
+Incorrect IP.||Špatná IP
+Rule created.||Pravidlo vytvořeno
+Rule <u>not</u> created.||Pravidlo <u>ne</u>vytvořeno
+Autobanned IP||Autozabanovani IP
+Unan||Odbanovat
+Show||Zobrazit
+Hide||Skrýt
+Create filter||Vytvoř filtr
+Choose a preset filter||Zvol přednastavený filtr
+Type your filter or choose a preset one in the list below||Napiš svůj filtr, nebo zvol jeden přednastavený ze seznamu
+New custom filter||Nový volitelný filtr
+Invalid regular expression.||Neplatný regulární výraz.
+The filter field cannot be empty.||Pole filtru nesmí být prázdné.
+Save changes||Změny uloženy
+Edit custom filter||Uprav volitelný filtr
+Filters||Filtry
+Search next||Hledat další
+Search previous||Hledat předchozí
+Clear console||Vyčistit konzoli
+Search logs||Hledej záznamy
+Kills/Deaths history||Zabití/úmrtí historie
+Kills history||Zabití historie
+Deaths history||Úmrtí historie
+The line contains||Řádek obsahuje
+The field above supports regular expressions as documented on ||Pole nad podporou má regulární výrazy tak jak je dokumentováno na 
+this page||tato stránka
+Color||Barva
+Play sound||Hrát zvuk
+Create||Vytvořit
+Edit keyword||Uprav výraz
+Create new keyword||Vytvoř nový výraz
+Don't play sound||Nehrát zvuk
+Incorrect expression||Nesprávný výraz
+No sound||Žádný zvuk
+The FPS graph feature is disabled. Please enable it under the settings tab.||Funkce FPS graf je vypnuta. Prosím zapni ji v nastavení.
+The following errors have been encountered in the last status response. The players listed below may have bad characters in their names which cause players list reading issues.||Následující chyby se vyskytly v poslední odpovedi. Vypsaní hráči můžou mít chybné znaky ve svých jménech, které způsobily problémy ve čtení seznamu. 
+Players list reading errors||Chyba čtení seznamu hráčů
+Send||Poslat
+Server configuration||Uložit konfiguraci
+Scheduled commands||Plánované příkazy
+Triggered commands||Spuštěné příkazy
+Console filters||Filtry konzole
+Highlight system||Hlavní událost systému
+Server time||Čas serveru
+Apply||Uložit změnu
+Crafting||Kraftění
+Cancel all||Zrušit vše
+Finish all||Dokončit vše
+Add||Přidat
+Pvp
+Enable||Zapnout
+Disable||Vypnout
+Godmode||Božský mód
+Quick commands||Rychlý příkaz
+Airdrop||Zásoby z letadla
+Restore default||Obnov základní nastavení
+Call||Zavolat
+Helidrop||Spawnout heli
+New command||Nový příkaz
+New filter||Nový filtr
+Clear all||Vyčistit vše
+Performances||Zvířata
+Detailed infos||Podrobné informace
+Weather / Environment||Počasí / Ovzduší
+Resources||Zdroje
+Auto
+Reset
+Refill resources, animals and collectables||Doplnit zvířata a sběrné věci
+Save configuration||Uložit konfiguraci
+Type a command to execute||Napiš příkaz
+Type a chat message||Napiš zprávu do chatu
+Server hostname||Název serveru
+Server URL||URL serveru
+Server description||Popis serveru
+Server Image||Obrázek serveru
+Animals move||Pohyb zvířat
+Animals AI||Umělá inteligence zvířat
+Rain||Déšť
+Fog||Mlha
+Clouds||Mraky
+Radiations||Radiace
+Animals||Zvířata
+Collectable||Sběrné věci
+Admin chat
+Notice popup||Vyskakovací oznámení
+Console font||Font konzole
+Console||Konzole
+Server Config||Konfigurace serveru
+Server infos||Informace serveru
+Server Infos||Informace serveru
+The server description field is empty.||Pole popisu serveru je prázdné.
+The server url field is empty.||Pole URL serveru je prázdné.
+The server image field is empty.||Pole obrázku serveru je prázdné.
+The server hostname field is empty.||Pole pro název serveru je prázdné.
+Server Config 2||Konfigurace serveru 2
+Next execution date||Datum dalšího uskutečnění
+Command created.||Príkaz vytvořen.
+Command <u>not</u> created.||Příkaz <u>ne</u>vytvořen.
+Filter created.||Filtr vytvořen.
+Filter <u>not</u> created.||Filtr <u>ne</u>vytvořen.
+Expression added.||Výraz přidán.
+Expression <u>not</u> added.||Výraz <u>ne</u>přidán.
+Next execution date : never||Datum dalšího uskutečnění : nikdy
+Edit||Upravit
+Start now||Spustit ted
+Command edited successfully.||Příkaz úspěšně upraven.
+Command <u>not</u> edited.||Příkaz <u>ne</u>upraven.
+Filter edited successfully.||Filtr úspěšně upraven.
+Filter <u>not</u> edited.||Filtr <u>ne</u>upraven.
+Keyword edited successfully.||Výraz úspěšně upraven.
+Keyword <u>not</u> edited.||Výraz <u>ne</u>upraven.
+Players||Hráči
+Bans||Bany
+Statistics||Statistika
+Powered users||Povýšit uživatele
+Configuration||Konfigurace
+Partners||Partneři
+Chat
+Logs||Přihlášení
+About||O RustAminu
+New !||Nové !
+Server
+Language||Jazyk
+Style||Styl
+Help and Support||Pomoc a podpora
+Connect||Připojit
+English
+Default||Základní
+Blue||Modrá
+Black||Černa
+White||Bíla
+Go to IRC||Jdi na IRC
+Go to Oxide forum||Jdi na Oxide forum
+Disconnecting||Odpojování
+Please update the program first.||Prosím nejdříve aktualizujte program.
+Connecting||Připojování
+Disconnect||Odpojit
+Connected||Připojeno
+Disconnected||Odpojeno
+Time||Čas
+Connection failed||Připojení selhalo
+Language updated. Restart RustAdmin to take the changes in account.||Jazyk změněn. Restartujte RustAdmin. 
+Appearance updated. Restart RustAdmin to take the changes in account.||Vzhled aktualizován. Restartujte RustAdmin.
+Pending commands||Blížící se příkaz
+Clear items list||Vyčistit seznam věcí
+Clear offline players list||Vyčistit seznam nepřipojených hráčů
+Give to||Dát hráčci
+Give to me||Dát mě
+Give to all||Dát všem
+Save||Uložit
+Convert||Přeměnit
+Give objects||Oběkty/předměty do hry
+Teleport
+Convert SteamID||Přeměnit SteamID
+Objects list to give||Seznam objektů pro darování
+Disconnected players||Odpojení hráči
+Create a teleport point||Vytvořit teleport bod
+ID
+M
+Country||Země
+Bans VAC||Bany VAC
+Game Bans||Herní bany
+Game bans||Herní bany
+RustAdmin bans||RustAdmin bany
+Bans RustDB||Bany RustDB
+Family share||Rodinné sdílení
+Violations||Podvádění
+Hours on Record||Nahráno hodin
+Hours on the server||Čas strávený na serveru
+Ping
+Last connection||Naposledy připojen
+New give list||Nový seznam darů
+Don't spam the chat||Nespamuj chat
+Too much spams||Příliš mnoho spamu
+ (%1 day(s) ago)||(před %1 dnem(dny))
+Player VAC bans (%1) > %2||Hrač VAC banů (%1) > %2
+Family share owner (%1) has too many VAC bans||Majitel rodinného sdílení (%1) má příliš mnoho VAC banů
+Player days since last VAC bans (%1) < %2||Hráčovy dny před posledním VAC banem (%1) < %2
+Family share owner (%1) has too few days since last VAC ban||Majitel rodinného sdílení (%1) má příliš málo dní od posledního VAC banu
+Family share owner (%1) has too few days since last VAC bans||Majitel rodinného sdílení (%1) má příliš málo dní od posledních VAC banů
+Player RustAdminDB bans (%1) > %2||Hráčovy RustAdminDB bany (%1) > %2
+Family share owner (%1) has too many RustAdminDB bans||Majitel rodinného sdílení (%1) má příliš RustAdminDB banů
+Family shared accounts are not allowed.||Rodinné sdílení účtu nejsou povoleny.
+Player RustDB bans (%1) > %2||Hráčovy RustDB bany (%1) > %21
+Hours on record||Nahrané hodiny
+Too many violations||Příliš mnoho podvodů
+Banned IP||Zabanovaná IP
+Private profile||Soukromý profil
+Warning||Varování
+If you disable the auto refresh, anti high ping... will be disabled.||Pokud vypneš tuto auto aktualizaci, anti vysoky ping... bude vypnut.
+If you disable the auto refresh, features such as anti high ping, anti rustDb bans, anti VAC bans,... will be disabled.||Pokud vypneš tuto auto aktualizaci, věci jako anti vysoký ping, anti RustDB bany, anti VAC bany,... budou vypnuty.
+Go to Family share owners Steam profile||Jdi na Steam profil majitele rodinného sdílení
+Copy IP||Kopírovat IP
+Kick||Vykopnout
+Kick (with reason)||Vykopnout (s důvodem)
+Teleport me to this player||Teleportovat mě na tohoto hráče
+Teleport this player to me||Teleportovat tohoto hráče na mě
+Clear from the list||Vyčistit ze seznamu
+Copy family share ID||Kopírovat ID rodinného sdílení
+Mute voice||Ztlumit hlas
+Unmute voice||Od-ztlumit hlas
+Mute chat||Ztlumit chat
+Unmute chat||Od-ztlumit chat
+Kick/Ban||Vykopnout/zabanovat
+Mute/Unmute||Ztlumit/Od-ztlumit
+Set marker||Nastavit označení
+Red||Červená
+Green||Zelená
+Yellow||Žlutá
+None||Žádná
+IP Warning||IP Varování
+Run search on||Spustit hledání na
+Teleport to||Teleportovat na
+Reason :||Důvod :
+Are you sure ?||Jsi si jistý ?
+List empty. First add items to the list.||Seznam prázdný. Nejdřív přidej předměty do seznamu.
+Type a save name||Napiš uložené jméno
+Name||Jméno
+Configuration saved.||Konfigurace uložena.
+Configuration <u>not</u> saved.||Konfigurace <u>ne</u>uložena
+Invalid coordinates||Špatné souřadnice
+Type a name for this place||Napiš jméno pro toto místo
+This place already exists. Overwrite ?||Toto místo již existuje. Přepsat?
+Place saved.||Místo uloženo.
+Place <u>not</u> saved.||Místo <u>ne</u>uloženo.
+Go to profile||Jdi na profil
+Unknown SteamID format||Neznámy SteamID formát
+Private profile||Soukromý profil
+User's details||Uživatelovi detaily
+Display help||Zobrazit nápovědu
+All commands||Všechny příkazy
+New||Nový
+User SteamID||Uživatel SteamID
+Username||Jméno uživatele
+Unban anyone||Odbanovat kohokoliv
+Unban only players he banned||Odbanovat pouze zabanované hráče
+Mute||Umlčet
+Date||Datum
+Command||Příkaz
+This tab can be used to configure powered players (moderators).<br>Fill the field 'User SteamId' with the SteamID of the desired player and tick the rights you want to give to them.<br><br><u>Rights</u> :<br><br>- Ban : if checked the powered user can ban any player.<br>- Unban anyone : If checked the powered user can unban any previously banned players.<br>- Unban only players he banned : if checked the powered user can unban only the players that he has banned himself.<br>- Kick : if checked the powered user can kick any player.<br>- Mute : if checked the powered user can mute/unmute any player.<br><br><u>How the powered users execute an action ingame</u> :<br><br>The powered users have to type in the game chat commands formated like this : <b>!ra &lt;action&gt; &lt;steamID&gt; &lt;reason&gt;</b>.<br><br><u>Some examples below</u> :<br><br>- Ban the player with the steamID 12345678912345678 : !ra ban 12345678912345678 reason<br>- Unban the player with the steamID 12345678912345678 : !ra unban 12345678912345678 reason<br>- Kick the player with the steamID 12345678912345678 : !ra kick 12345678912345678 reason.<br>- Mute the player with the steamID 12345678912345678 : !ra mute 12345678912345678 reason.<br>- Unmute the player with the steamID 12345678912345678 : !ra unmute 12345678912345678 reason.<br><br>Don't forget the reason parameter for every command or it won't be executed. All players will see the command displayed in the game chat but if they are not powered users themselves they won't be able to use any command.||Toto pole může být konfigurovano povýšenými uživateli (moderátory).<br>Zadejte do tohoto pole 'Uživatelovo SteamId' SteamID žádajícího hráče a zvolte práva, která mu chcete udělit.<br><br><u>Práva</u> :<br><br>- Ban : pokud zvolíte, pověřený uživatel bude moci banovat jakehokoliv hráče.<br>- Odbanovat kohokoliv : pokud zvolíte, pověřený uživatel bude moci odbanovat jakéhokoliv již zabanovaného hráče.<br>- Odbanovat pouze zabanovaného hráče : pokud zvolíte, pověřený uživatel bude moci odbanovat pouze hráče, které/ho sám zabanoval.<br>- Vykopnout : pokud zvolíte, pověřený uživatel bude moci vykopnout jakéhokoliv hráče.<br>- Ulmčet : pokud zvolíte, pověřený uživatel bude moci umlčet/od umlčet jakéhokoliv hráče.<br><br><u>Jak pověřit uživatele, aby mohl provádět akce ve hře</u> :<br><br>Pověřený uživatel muže psát příkazy do chatu ve hře ve formátu : <b>!ra &lt;action&gt; &lt;steamID&gt; &lt;reason&gt;</b>.<br><br><u>Pár příkladů zde</u> :<br><br>- Zabanuj hráče se SteamID 12345678912345678 : !ra ban 12345678912345678 reason<br>- Odbanovat hráče se SteamID 12345678912345678 : !ra unban 12345678912345678 reason<br>- Vykopnout hráče se SteamID 12345678912345678 : !ra kick 12345678912345678 reason.<br>- Umlčet hráče se SteamID 12345678912345678 : !ra mute 12345678912345678 reason.<br>- Od umlčet hráče se SteamID 12345678912345678 : !ra unmute 12345678912345678 reason.<br><br>Nezapomeňte na parametr důvodu (reason) pro každý příkaz, nebo nebude proveden. Všichni hráči uvidí příkaz v chatu ve hře ale pokud nebudou mít pověření, uživatelé nebudou moci použít žádný příkaz.
+The username field cannot be empty.||Pole pro jméno uživatele nesmí být prázdné.
+The username already exists.||Jméno uživatele již existuje
+The SteamId field cannot be empty.||Pole pro SteamID nesmí být prázdné.
+No permission selected.||Nejsou zvolena práva.
+This SteamId is already configured||Toto SteamID je již nakonfigurovano.
+Type a command to add||Zadej příkaz pro přidaní
+Commands list (right click on a command to execute)||Seznam příkazů (klikni pravým na příkaz pro jeho vykonání)
+The command field cannot be empty.||Pole příkazu nesmí být prázdné.
+Run||Spustit
+Every day||Kazdý den
+Periodic||Opakovaně
+Once||Jednou
+Time / Period||Čas / Období
+Commands||Příkaz
+Type||Typ
+You can execute several commands at once. Just seperate them with a ';'.||Můžete provést několik příkazů naráz. Oddělte je ';'.
+Create command||Vytvořit příkaz
+Edit scheduled command||Uprav plánovaný příkaz
+Create new scheduled command||Vytvoř nový plánovaný příkaz
+Incorrect command.||Nespravný příkaz.
+General||Hlavní
+Anti cheat
+Anti chat abuse||Opatření proti nadávkám v chatu
+You must disconnect RustAdmin from the server before you can make any changes in the configuration||Nejdříve musíte RustAdmin odpojit od serveru, pak bude možno dělat změny v konfiguraci.
+New configuration||Nová konfigurace
+Anti unauthorised admins||Anti neautorizovaní admini
+Enter below the list of your admins/moderators SteamIDs. The SteamIDs must be seperated with a ';'. If you enable the checkbox above, all players getting Auth level 1 or 2 will be banned if their SteamID is not in this list.||Zde napište seznam SteamID Vašich adminů/moderátorů. SteamID musí být odděleny ';'. Pokud povolíte políčko výse, všichni hráči, kteří mají autorizaci level 1, nebo 2, budou zabanováni, pokud nebude jejich SteamID v seznamu.
+Anti high ping||Anti vysoký ping
+Write warnings in chat (may cause lag)||Napiš varování do chatu (může způsobit lagy)
+Ping max
+Number of warnings||Počet varování
+Others||Ostatní
+Remote webclient||Ovládání webklienta
+Configure the remote access port and the remote access password if you want to connect to this RustAdmin instance from||Nastavte ovládací port a ovládací přístupové heslo pokud se chcete připojit k tomuto RustAdminu z 
+Enable server FPS graph. Refresh interval X seconds||Zapnout FPS server graf Aktualizace za X sekund
+My STEAMID||Vaše SteamID
+Notify when 'admin' is pronounced by a player||Upozorní Vás, pokud je "admin" psán do chatu hráčem
+Prefix 'SERVER CONSOLE' messages with my nickname||Zobrazí Váš nick, když píšete do Admin Chatu
+UTF8 mode||UTF8 mod (diakritika)
+Get the server time periodically||Zobrazovat čas serveru pravidelně
+Remote access password||Ovladací přístupové heslo
+Remote access port||Ovladací přístupový port
+Anticheat whitelist||Anticheat výjimky
+Enter below the list of steam IDs not affected by any Rustadmin's anticheat system. The steam IDs must be seperated with a ';'.||Zde napiš seznam SteamID, na které nebude Rustadmin anticheat system brát ohled. SteamID musí být odděleny ';'.
+Anticheat
+Autokick players without any SteamID||Automaticky vykopnout hráče bez SteamID
+Autokick players using Family Share||Auto vykoputí hráčů používající rodinné sdílení
+Autoban players who kill at an invalid range according to the weapon they are using||Auto zabanovani hráče, který zabil na nemožnou vzdálenost určitou zbraní
+Check family share owner account for VAC or RustAdminDB bans||Zkontroluj bany pro VAC nebo RustAdminDB na účtu vlastníka rodinného sdílení
+Autoban players with more than X VAC bans||Automaticky zabanovat hráče s více jak X VAC bany
+Autoban players with less than X days since last VAC ban||Automaticky zabanovat hráče s méně jak X dny od posledního VAC banu
+Autoban players with more than X RustAdminDB bans||Automaticky zabanovat hráče s více jak X RustAdminDB bany
+Autoban players with more than X violations||Automaticky zabanovat hráče s více jak X podvedením
+When a player is banned, also ban his IP for X hours||Když je hráč zabanován, zabanuj také jeho IP na X hodin
+Autokick players with less than X hours on reccord||Automaticky vykopnout hráče s méně ja X nahranými hodinami
+Anti bad language||Anti nadávky
+Words list||Seznam slov
+Regex
+Number of warning(s) (0 = instant kick)||Počet varovaní(s) (0 = okamžité vykopnutí)
+Enter below the list of words leading to a kick (';' separated)||Zadej do seznamu slova, za která vykopnout hráče (';' oddělení)
+Set below the kick reason||Uvézt toto jako důvod pro vykopnutí
+RCON type||RCON typ
+Legacy
+Experimental
+Experimental (WebRcon)||Experimental (WebRcon)(Nové RCON rozhraní)
+Anti chat spam||Anti spam v chatu
+Simple||Jednoduchý
+Advanced||Pokročilý
+Analyze XX last messages for each player||Analizovat XX posledních zpráv pro každého hráče
+Violation detected if message rate exceeds XX per 10 seconds||Detekovat jako podvádění, když četnost zpráv překročila XX za 10 sekund
+Violation detected if the same message is posted more than XX times||Detekovat jako podvádění, když stejná zpráva byla vystavena více jak XX krát
+Maximum violations acceptable||Maximální přijatelné podvádění
+You can use the following markers in the commands||V přikazu můžeš použít tyto přikazy
+Each time a violation is detected the player get kicked||Pokaždé, když je zjištěno podvádění hráče kicknut
+After XX violations (set the threshold in the field opposite) the player is banned||Po XX podvádění (stanovit opačnou hodnotu) hráče zabanovat
+Execute the command below as first violation warning||Spustit příkaz níže jako varování při prvním podvádění
+Execute the command below as warning between the first and the last violation||Spustit příkaz níže jako varování mezi prvním a posledním podvádění
+Execute the command below after the last warning||Spustit příkaz níže po posledním varování
+Auto connect at startup||Automaticky připojit po startu
+Auto reconnect||Automaticky znovu připojit
+Query port
+Server port||Port serveru
+Chat message regex||Chat zpráva regex
+Configure the regex used to parse chat messages below. You should not change this setting unless you know exactly what you are doing.||Konfigurace regex slouží k analýze zpráv chatu níže. Toto nastavení byste neměli měnit, pokud nevíte přesně, co děláte.
+Choose a preset example||Vyberte přednastavený příklad
+Players Whitelist||Hráči s výjimkou
+Enter the SteamID's of people allowed to join the server below. If someone tries to join the server and his SteamID is not in this list then he will get kicked instantly. The SteamID's must be seperated with a ';'.||Zadejte SteamID hráčů, kteří se mohou připojit na server. Pokud se pokusí připojit hráč jehož SteamID není v seznamu, bude okamžitě vykopnut. SteamID musí být odděleny ';'.
+Anti invalid char in name||Anti neplatný znak v názvu
+Autokick players with a character in their name that RustAdmin cannot deal with||Automaticky vykopnout hráče se znakem v nicku, který RustAdmin neumí zpracovat
+Rcon port
+Enter below the regular expression. Syntax on||Zadej regulérní výraz. Složení zapnuto
+The server is running in whitelist mode. You are not allowed to join it right now.||Na tento server se mohou připojit pouze hráči uvedení v seznamu povolených hráčů.
+Your name contains some invalid characters. Change it to play on this server.||Tvůj nick obsahuje špatný znak. Pro hraní na tomto serveru si ho prosím změň.
+Bad language.||Špatné vyjadřování
+Incorrect chat regular expression entered. Fix it before saving the configuration.||Vložen špatný výraz do chatu. Oprav ho před tím, než uložíš konfiguraci.
+Configuration name||Jméno konfigurace
+Type a name for the configuration||Zadej jméno konfigurace
+Warning !||Varování !
+Your bad language regular expression syntax is incorrect. The anti bad language check will be disabled.||Tvé složení vulgárních slov je chybné. Anti vulgarní kontrola bude vypnuta.
+Test your regular expression syntax on||Test tvého regulérního složení výrazu zapnuto
+The regular expression is invalid.||Výraz je chybný.
+The regular expression does not contain the named group||Výraz neobsahuje jméno skupiny.
+The regular expression looks correct||Výraz vypadá správně.
+Send kills events to game chat||Zaslat upozornění na zabití do herního chatu
+Clear All data (can't be undone)||Vymazat všechna data (nelze vrátit zpět)
+Message format||Formát zprávy
+Kills events blacklist. Add in the list below the kills events that you don't want to be sent in the chat console.||Seznam výjimek upozornění na zabití. Zadejte do seznamu druh smrti/í, které nechcete zobrazovat v konzoli.
+Kills||Zabití
+Sleepers kills||Zabitých spáčů
+Killed by player||Zabit hráčem
+Suicides||Sebevraždy
+Bleedings||Vykrvacení
+Drowing||Utopení
+Hunger||Vyhladovení
+Thirst||Smrt žízní
+Cold||Smrt chladem
+Heat||Smrt horkem
+Falls||Pády
+Poison||Otrava
+Wolf||Vlk
+Bear||Medvěd
+Campfire||Ohniště
+Floor spikes||Podlaha s hroty
+Bear trap||Past
+Metal Barricade||Železná barikáda
+Wooden Barricade||Dřevěná barikáda
+Barbed Wooden Barricade||Ostnatá dřevěná barikáda
+Stone external high wall||Vysoká venkovní kamenná zeď
+Code Lock||Kódový zámek
+Explosion||Výbušniny
+Landmine||Pozemní mina
+Incendiary Damage||Zápalné poškození
+Rocket Fire||Ohnivá raketa
+Rocket||Raketa
+High Velocity Rocket||Vysokorychlostní raketa
+Special thanks to ||Speciální poděkování 
+ for their support which helped me to develop this module.|| za jejich podporu, která mi pomohla vytvořit tento modul.
+ for their support which helped me to develop this module.<br><br>This tab gives you an access to the players statistics.<br><br><b>Warning ! Due to frequent server updates, some statistics may be broken</b>.<br><br>Rustadmin gives you the possibility to display these statistics on a website or anywhere else. To do this, rustadmin opens a port on your computer (8888 by default that you can tweak in the settings.ini file) on which you can send http requests.<br><br><u>List of endpoints implemented</u> :<br><br>- http://localhost:8888/getPlayersGlobalStats returns json formated data about all statistics for all players (except details about kills and deaths).<br><br>- http://localhost:8888/getPlayerGlobalStats?id=78945612378945612 returns json formated data about the statistics of the given player steamID (except details about kills and deaths).<br><br>- http://localhost:8888/getPlayerKillsHistory?ids=78945612378945612;78945612312345678 returns json formated data about kills and deaths of the given players steamIDs.|| za jejich podporu, která mi pomohla vytvořit tento modul.<br><br>Toto tlačítko ti dá přístup ke statistikám hráčů.<br><br><b>Varovaní ! Vzhledem k časté aktualizaci serveru, mohou být některé statistiky chybné</b>.<br><br>RustAdmin ti dá možnost zobrazit jejich statistiky na webu, nebo kdekoliv jinde. Aby jsi toto udělal, rustadmin otevře port na tvém PC (8888 defaultne můžete toto upravit v settings.ini souboru) kterým můžete poslat žádost. <br><br><u>Seznam koncových bodu inplementovan</u> :<br><br>- http://localhost:8888/getPlayersGlobalStats vrátí json formátovaná data o všech hráčích (až na detaily o zabitích a úmrtích).<br><br>- http://localhost:8888/getPlayerGlobalStats?id=78945612378945612 vrátí json formátovaná data o daných statistikách hráče SteamID (až na detaily o zabitích a úmrtích) .<br><br>- http://localhost:8888/getPlayerKillsHistory?ids=78945612378945612;78945612312345678 vrátí json formátovaná data o zabitích a úmrtích hráčů SteamID.
+Delete all player's data||Vymazat data o všech hráčích
+player(s) recorded.||hráčů nahráno.
+No data||Žádná data
+Unable to find the server's name||Neni možné najít jméno serveru
+Unable to find players count||Neni možné najít počet hráčů
+Error in line||Chyba na řádku
+Event type||Napiš událost
+Command(s)||Příkaz(y)
+Player SteamID||SteamID hráče
+Any||Nějaký
+Chat text regexp
+Chat text
+Population threshold||Populační práh
+Commands to execute over||Přkaz k provedení přes
+players||hráči
+Commands to execute under||Přikaz k provedení pod
+On user logon||Zapnout přihlášení hráče
+On user logoff||Zapnout odhlášení hráče
+On chat text||Zapnout text chatu
+On helicopter drop||Zapnout heli
+On cargo plane drop||Zapnout Airdrop
+On population changed||Zapnout změnu populace
+Unknown||Neznámý
+The field above contains a regex||Pole nad obsahuje regex
+Execute only for the player||Provést pouze pro hráče
+Execute only if the chat text is||Provést pouze pokud text v chatu je
+Command(s) to be executed under the population threshold||Příkaz(y) pro provedení pod hranicí populace
+Command(s) to be executed over the population threshold||Příkaz(y) pro provedení nad hranicí populace
+Command(s) to be executed||Příkaz(y) pro provedení
+Type the command(s). Separate them with a ';'.||Napiš příkaz(y). Odděl je ';'. 
+Type the player's SteamID triggering the command. Leave this field empty to trigger on any players.||Napiš hráčovo SteamID pro spuštění příkazu. Nech pole prázdné pro spuštění kymkoliv.
+Type the chat text triggering the command. Leave this field empty to trigger on any chat text.||Zadej spouštěcí příkaz do chatu. Nech pole prázdné pro spuštění jakýmkoliv textem v chatu.
+New triggered command||Nový spouštěcí příkaz
+Edit triggered command||Upravit spoustěcí příkaz
+This feature can be used to execute commands when a given game event occurs.||Tato funkce může být použita ke spuštění příkazu, když dojde k dané události.
+You can use||Můžeš použít
+or||nebo
+in your command. They will be replaced with the ID/the name of the player before to be executed.||v tvém příkazu. Bude nahrazeno ID/jménem hráče předtím než bude spuštěno.
+<u>Some examples below</u> :||<u>Pár příkladů</u> :
+If you want to say hello when a player joins the server, type this text in the command field||Pokud chces řici ahoj, kdyz se hrač napojí na server, napiš tento text do příkazového pole
+If you want to give an apple to a player joining the server, type this text in the command field||Pokud chceš dát jablko hráči, co se napoji na server, napiš tento text do příkazového pole
+Commands to be executed over and under the population threshold can't be both empty.||Příkazy pro provedení pod i nad hranicí populace nesmějí být oba prázdné.
+Invalid SteamID entered. The field must be left empty or must contain a 17 digits SteamID.||Zadano špatné StaemID. Pole musí zůstat prázdné, nebo musi obsahovat 17 znaků SteamID.
+Invalid or empty regular expression entered.||Špatný, nebo prázdny regularni výraz.
+The command will never be executed because the hour is in the past.||Příkaz nebude nikdy proveden, protože tato hodina již uplynula.
+Other||Ostatní
+Kick if message rate exceeds XX per 10 seconds||Vykopnout pokud četnost zpráv přesahuje XX za 10 sekund 
+Kick if the same message is posted more than XX times||Vykopnout pokud je stejná zpráva vystavena vícekrát jak XX krát
+Ban the players after XX kicks||Zabanovat hráče po xx vykopnutí
+Enable when a player is banned, also ban his IP for X hours||Zapnout, když je hráč zabanován, také zabanovat jeho IP na X hodin
+Enable auto kick players having less than X hours on reccord||Zapnout auto vykopnutí, pokud ma hráč méne než X hodin nahráno
+Enable auto ban players having more than X RustDB bans||Zapnout auto banovaní hráčů s více jak X RustDB banu
+Autoban/Autokick
+The field above contains a regex
+IP check||IP kontrola
+Game||Hra
+Health||Zdraví
+Unspent XP||Nepoužité XP body
+Comments||Komentáře
+Player Infos||Informace o hráči
+Actions||Akce
+Options||Nastavení
+Auto refresh players list||Automatické obnovení seznamu hráčů
+Refresh interval in seconds||Interval obnovení ve vteřinách
+Timed Bans||Časově omezené Bany
+Player comments||Komentáře k hráči
+Comments||Komentáře
+See/edit comments||Prohlédnout/upravit komentáře
+Ban until (date)||Ban do (datum/čas)
+PVP Kills||PVP zabití
+PVP Deaths||PVP úmrtí
+PVE Deaths||PVE úmrtí
+Click a player above to show extended informations||Klikni na hráče výše pro zobrazení extérních informací
+Clear All data||Vyčistit všechny údaje
+Choose a preset||Zvolit přednastavení
+ for their support which helped me to develop this module.|| za jejich podporu, které mi pomohla vytvořit tento modul.
+Events for player||Událost pro hráče
+ for their support which helped me to develop this module.<br><br>This tab gives you an access to the players statistics.<br><br><b>Warning ! Due to frequent server updates, some statistics may be broken</b>.<br><br>Rustadmin gives you the possibility to display these statistics on a website or anywhere else. To do this, rustadmin opens a port on your computer (8888 by default that you can tweak in the settings.ini file) on which you can send http requests.<br><br><u>List of endpoints implemented</u> :<br><br>- http://localhost:8888/getMyPlayers returns the steamID of all players currently recorded in the database.<br><br>- http://localhost:8888/getPlayersGlobalStats returns json formated data about all statistics for all players. This call is very demanding in terms of resources so don't call it too often or you will experience huge lags in RustAdmin.<br><br>- http://localhost:8888/getPlayerGlobalStats?id=78945612378945612 returns json formated data about the statistics of the given player steamID.|| za jejich podporu, které mi pomohla vytvořit tento modul.<br><br>Zde máte možnost přístupu do statistik hráčů.<br><br>Upozornění ! Na základě četnosti updatů serveru mohou být některé statistiky špatně</b>.<br><br>RustAdmin Vám dává možnost zobrazit tyto statistiky na webu, nebo kdekoliv jinde. Je potřeba mít otevřený port na Vašem PC (8888 v základním nastavení ale můžete ho změnit v settings.ini souboru) díky kterému můžete poslat http žádost o informace.<br><br><u>Seznam adres, kde získat konkrétní informace</u> :<br><br>- http://localhost:8888/getMyPlayers zde dostanete steamID všech hráčů v současné době nahrané v databázi.<br><br>- http://localhost:8888/getPlayersGlobalStats zde dostanete data v json formátu se všemi statistikami všech hráčů. Tento úkon je velmi náročný, proto ho neprovádějte moc často, může dojít k lagování v RustAdminu programu.<br><br>- http://localhost:8888/getPlayerGlobalStats?id=78945612378945612 zde dostanete data v json formátu se statistikami hráče se zadaným steamID číslem.
+Date of the event||Datum události
+Killer/Killed||Zabiják/Zabitý
+Event type||Typ události
+Are you sure ? This operation cannot be undone.||Jsi si jistý? Tuto operaci nelze vzít zpět.
+Restart needed||Je potřeba restart
+Please restart RustAdmin to take changes in account.||Pro přijetí změn prosím restartujte RustAdmin.
+Reason of the death or player killed||Důvod smrti nebo zabití hráče
+Unable to find the server's name||Název serveru nenalezen
+Unable to find players count||Počet hráčů nenalezen
+Error in line||Chyba na řádku
+Marker associated with the player||Označení spojené s hráčem
+Player's SteamID||SteamID hráče
+Connected since||Doba připojení
+Country where the player's IP is located||IP adresa hráče se nachází v zemi
+Player's nickname||Nick hráče
+Number of VAC ban(s) and the number of days since the last one.||Počet VAC banů a počet dní od posledního
+Number of Game bans(s)||Počet herních banů
+Number of ban(s) recorded on www.rustadmin.com||Počet banů nasbíraných na www.rustadmin.com
+Is this account a Family shared one||Tento účet používá Family share
+Show the violations indicator sent by the server. A high number could indicate that the player is speedhacking, jumphacking or noclipping||Zobrazit indikátor podvádění zazanamenaný tímto serverem. Vysoké číslo by mohlo znamenat, že hráč používá speedhacking, jumphacking or noclipping
+Current health of the player||Momentální stav zdraví hráče
+Player's unspent XP||Hráčovi nepoužité XP body
+Current player level||Momentální level hráče
+Total hours that the player has spent on Rust||Celkový počet hodin hráče strávený v Rustu
+Total (estimated) hours that the player has spent on your server||Celkový (odhadovaný) počet hodin, který hráč strávil na tvém serveru
+Player's ping||Ping hráče
+Total time since players last connection||Doba, před kterou se hráč naposldy připojil
+Player's IP||IP hráče
+Player's last disconnection||Poslední odpojení hráče
+Private profile||Soukromý profil
+The value 0 means no cooldown, the command is executed as often as it is trigggered.||Hodnota 0 znamená žádný cooldown, příkaz je sroveden tak často, kolikrát je spuštěno.

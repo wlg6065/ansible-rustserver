@@ -1,0 +1,19 @@
+- name: Wipe Rust Server
+  hosts: rust4
+  tasks:
+    - name: Delete world files and user data
+      win_file:
+        path: C:\RustServer\server\server1_data
+        state: absent
+    - name: Create fresh directory
+      win_file:
+        path: C:\RustServer\server\server1_data\cfg
+        state: directory
+    - name: Copy configuration file template
+      win_template:
+        src: /ansible-rustserver/templates/server.cfg.j2
+        dest: C:\RustServer\server\server1_data\cfg\server.cfg
+    - name: Copy start command file template
+      win_template:
+        src: /ansible-rustserver/templates/start_rust_server.cmd.j2
+        dest: C:\Users\dcadmin\Desktop\start_rust_server.cmd

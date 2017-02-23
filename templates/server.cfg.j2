@@ -1,0 +1,19 @@
+#jinja2: newline_sequence:'\r\n'
+server.port 28015
+{% if world_size is undefined %}
+{%   set world_size = 3500 %}
+{% endif %}
+server.worldsize {{ world_size }}
+fps.limit "60"
+server.updatebatch "128"
+server.hostname "Doom Crickets|Wiped {{ ansible_date_time.month | int }}/{{ ansible_date_time.day | int }} {{ {3000: "3k ",3500: "3.5k ",4000: "4k "}[world_size|int|default("")]}}Vanilla|US EAST"
+server.description "Doom Crickets, a mature vanilla experience\n\nLast Wipe: {{ ansible_date_time.month | int }}/{{ ansible_date_time.day | int }} {{ lookup('pipe','date +"%I:%M %p"') }} ET\n\nNext Wipe: None scheduled, server will run until a wipe is forced or population consistently averages less than 10."
+server.url "http://www.doomcrickets.com/"
+server.headerimage "http://i.imgur.com/X7kef4C.png"
+server.salt "{{ range(100000,999999) | random }}"
+server.radiation "True"
+antihack.noclip_reject "true"
+server.maxplayers {{ max_players | default(150) }}
+server.saveinterval 300
+server.secure "true"
+server.level "Procedural Map"

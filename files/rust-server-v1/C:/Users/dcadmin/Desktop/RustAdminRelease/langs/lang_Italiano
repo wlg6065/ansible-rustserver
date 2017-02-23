@@ -1,0 +1,520 @@
+Killed with ||Ucciso con 
+ at || a 
+Start update||Avvia l'aggiornamento
+Cancel||Annulla
+Restore my configuration files after update.||Ripristina la mia configurazione dopo l'aggiornamento.
+Update in progress||Aggiornamento in corso
+Starting download||Avvio download
+Update failed. Can't open file||Aggiornamento fallito. Impossibile aprire il file
+Unzipping archive||Decompressione archivio
+Creating install script||Creazione dello script d'installazione
+Starting update||Inizio aggiornamento
+Error while starting update.||Errore durante l'avvio dell'aggiornamento.
+Downloaded size||Dimensione download
+Download success.||Download riuscito.
+Download failed.||Download fallito.
+Expire||Scade
+Never||Mai
+Refresh||Aggiorna
+Filter||Filtro
+Ban IP||Banna IP
+Ban SteamID||Banna SteamID
+RustAdmin DB sharing system||Sistema di condivisione BAN RustAdmin
+New banned IP||Nuovo IP bannato
+Test state||Controlla stato
+Ban||Banna
+Auto refresh||Aggiornamento automatico
+Login||Nome login
+Password||Password
+Status||Stato
+OK||OK
+Error||Errore
+Click for help||Clicca per aiuto
+Type the reason||Metti il motivo
+Reason||Motivo
+<Type the reason>||<Metti il motivo>
+Information||Informazione
+Incorrect SteamID. A valid SteamID is composed of 17 digits.||SteamID errato. Uno SteamID valido è composto da 17 cifre.
+Create your account||Crea le tue credenziali
+Go to Steam profile||Vai al profilo Steam
+Go to RustAdminDB profile||Vai al profilo RustAdminDB
+Copy SteamID||Copia lo SteamID
+Copy nickname||Copia il nickname
+Copy reason||Copia il motivo
+Copy IP||Copia l'IP
+Unban||Sbanna
+Share||Condividi
+Unshare||Non condividere
+IP||IP
+Ban Steam account||Banna il profilo Steam
+Yes||Si
+No||No
+Delete||Cancella
+Never expire||Infinito
+Expire on||Scade il
+If a player joins the server with this IP, ban the associated steam account||Se un giocatore si connette con questo IP, banna il profilo Steam associato
+Create rule||Crea regola
+Incorrect IP.||IP incorretto.
+Rule created.||Regola creata.
+Rule <u>not</u> created.||Regola <u>non</u> creata.
+Autobanned IP||IP bannato in automatico
+SteamId||SteamID
+Nickname||Nickname
+Bans RustAdmin||Ban RustAdmin
+Last known IP||Ultimo IP conosciuto
+Shared Ban||Ban condiviso
+Unan||Sbanna
+Disconnected||Disconnesso
+Connecting||Connessione in corso
+Connected||Connesso
+Disconnecting||Disconnessione in corso
+Show||Mostra
+Hide||Nascondi
+Create filter||Crea filtro
+Choose a preset filter||Scegli un filtro standard
+Type your filter or choose a preset one in the list below||Scrivi il tuo filtro o selezionane uno sotto
+New custom filter||Nuovo filtro personalizzato
+Invalid regular expression.||Espressione regolare non valida
+The filter field cannot be empty.||Il campo <b>filtro</b> non può essere vuoto.
+Save changes||Salva i cambiamenti
+Edit custom filter||Modifica filtro
+Apply||Applica
+Restore default||Ripristina predefinito
+Console font||Font console
+Change console font||Cambia il font della console
+Filters||Filtri
+Search next||Trova prossimo
+Search previous||Trova precedente
+Clear console||Cancella la console
+Search logs||Trova nei log
+Kills/Deaths history||Storico uccisioni/morti
+Kills history||Storico uccisioni
+Deaths history||Storico morti
+No sound||Nessun suono
+Chat||Chat
+Console||Console
+The line contains||La linea contiene
+The field above supports regular expressions as documented on ||Il campo sopra supporta le espressioni regolari come documentate su 
+this page||questa pagina
+Color||Colore
+Play sound||Emetti suono
+Apply on tabs||Applica nel pannello
+Create||Crea
+Edit keyword||Modifica parametri
+Create new keyword||Crea nuovo parametro
+Don't play sound||Non emettere suono
+Incorrect expression||Espressione errata
+You need to select at least one tab where the highlight rule must be applied.||Devi selezionare almeno un pannello in cui applicare la regola di evidenziazione.
+The FPS graph feature is disabled. Please enable it under the settings tab.||Il grafico degli FPS è disabilitato. Attivalo nel pannello dei settaggi.
+The following errors have been encountered in the last status response. The players listed below may have bad characters in their names which cause players list reading issues.||Sono stati riscontrati i seguenti errori nell'ultima risposta dello Status. I giocatori elencati possono avere dei caratteri non validi nel loro nome che causano il problema.
+Players list reading errors||Errori leggendo la lista dei giocatori
+Server configuration||Configurazione server
+Scheduled commands||Comandi pianificati
+Triggered commands||Comandi attivati da eventi
+Console filters||Filtri console
+Highlight system||Evidenziazione log
+Server time||Orario server
+Crafting||Crafting
+Cancel all||Annulla tutto
+Finish all||Finisci tutto
+Add||Aggiungi
+Pvp||Pvp
+Enable||Attiva
+Disable||Disattiva
+Godmode||Godmode
+Quick commands||Comandi rapidi
+Airdrop||Aereo<br>rifornimenti
+Call||Chiama
+Helidrop||Elicottero
+New command||Nuovo comando
+New filter||Nuovo filtro
+Clear all||Cancella tutto
+Performances||Prestazioni
+Server infos||Informazioni server
+Detailed infos||Informazioni dettagliate
+Weather / Environment||Meteo / Ambiente
+Resources||Risorse
+Auto||Auto
+Reset||Reset
+Refill resources, animals and collectables||Riempi risorse, animali e raccoglibili
+Save configuration||Salva la configurazione
+Type a command to execute||Scrivi un comando da eseguire
+Type a chat message||Scrivi un messaggio in chat
+Server hostname||Nome server
+Server URL||URL sito server
+Server description||Descrizione<br>server
+Server Image||Immagine<br>server
+Animals move||Movimento<br>animali
+Animals AI||IA Animali
+Rain||Pioggia
+Fog||Nebbia
+Clouds||Nuvole
+Radiations||Radiazioni
+Animals||Animali
+Collectable||Raccoglibili
+Admin chat||Admin chat
+Notice popup||Popup avviso
+Server Config||Config. server
+Server Infos||Informazioni server
+The server description field is empty.||Il campo <b>Descrizione server</b> è vuoto.
+The server url field is empty.||Il campo <b>URL sito server</b> è vuoto.
+The server image field is empty.||Il campo <b>Immagine server</b> è vuoto.
+The server hostname field is empty.||Il campo <b>Nome server</b> è vuoto.
+Server Config 2||Config. server 2
+Next execution date||Prossima data d'esecuzione
+Command created.||Comando creato.
+Command <u>not</u> created.||Comando <u>non</u> creato.
+Filter created.||Filtro creato
+Filter <u>not</u> created.||Filtro <u>non</u> creato.
+Expression added.||Espressione aggiunta.
+Expression <u>not</u> added.||Espressione <u>non</u> aggiunta.
+Next execution date : never||Prossima data d'esecuzione : mai
+Edit||Modifica
+Start now||Esegui ora
+Command edited successfully.||Comando modificato con successo.
+Command <u>not</u> edited.||Comando <u>non</u> modificato.
+Filter edited successfully.||Filtro modificato con successo.
+Filter <u>not</u> edited.||Filtro <u>non</u> modificato.
+Keyword edited successfully.||Parola chiave modificata con successo.
+Keyword <u>not</u> edited.||Parola chiave <u>non</u> modificata.
+RustAdmin has found that it is not allowed to write into its own directory. You either need to run RustAdmin as Administrator, or install RustAdmin in a directory where it is allowed to write files.||RustAdmin non può scrivere nella sua directory. O lo lanci come Amministratore o lo installi in una directory dove può scrivere i file.
+Players||Giocatori
+Bans||Ban
+Statistics||Statistiche
+Powered users||Moderatori
+Configuration||Configurazione
+Logs||Log
+About||A proposito
+New !||Nuovo !
+Server||Server
+Language||Lingua
+Style||Stile
+Help and Support||Aiuto e supporto
+Connect||Collegati
+English||English
+Default||Predefinito
+Blue||Blu
+Black||Nero
+White||Bianco
+Go to Oxide forum||Vai al forum Oxide
+Please update the program first.||Aggiorna il programma prima di collegarti.
+Disconnect||Scollega
+Time||Ora
+Connection failed||Collegamento fallito
+Language updated. Restart RustAdmin to take the changes in account.||Lingua aggiornata. Riavvia RustAdmin per attivare i cambiamenti.
+Appearance updated. Restart RustAdmin to take the changes in account.||Stile aggiornato. Riavvia RustAdmin per attivare i cambiamenti.
+Pending commands||Comandi in attesa
+Clear items list||Cancella elenco oggetti
+Clear offline players list||Cancella lista giocatori non collegati
+Give to||Dai a
+Give to me||Dammi
+Give to all||Dai a tutti
+Save||Salva
+Convert||Converti
+Give objects||Dai oggetti
+Teleport||Teletrasporto
+Convert SteamID||Converti SteamID
+Options||Opzioni
+Objects list to give||Lista degli oggetti da dare
+Disconnected players||Giocatori non collegati
+Create a teleport point||Crea punto di teletrasporto
+ID||ID
+New give list||Nuovo elenco oggetti
+Auto refresh players list||Aggiorna elenco giocatori
+Refresh interval in seconds||Aggiorna ogni X secondi
+Don't spam the chat||Non spammare la chat
+Too much spams||Troppo spam
+Player VAC bans (%1) > %2||VAC ban giocatore (%1) > %2
+Family share owner (%1) has too many VAC bans||Il proprietario della condivisione familiare (%1) ha troppi VAC ban
+Player days since last VAC bans (%1) < %2||Giorni dall'ultimo VAC ban del giocatore (%1) < %2
+Family share owner (%1) has too few days since last VAC ban||Il proprietario della condivisione familiare (%1) ha troppi pochi giorni dall'ultimo VAC ban
+Family share owner (%1) has too few days since last VAC bans||Il proprietario della condivisione familiare (%1) ha troppi pochi giorni dall'ultimo VAC ban
+Player RustAdminDB bans (%1) > %2||RustAdmin ban giocatore (%1) > %2
+Family share owner (%1) has too many RustAdminDB bans||Il proprietario della condivisione familiare (%1) ha troppi ban RustAdminDB
+Family shared accounts are not allowed.||Non sono ammessi giocatori con la condivisione familiare.
+Hours on record||Ore di gioco
+Banned IP||IP bannato
+Too many violations||Troppe violazioni
+Warning||Attenzione
+If you disable the auto refresh, anti high ping... will be disabled.||Se disabiliti l'aggiornamento automatico anche l'anti ping alto verrà disabilitato.
+If you disable the auto refresh, features such as anti high ping, anti rustDb bans, anti VAC bans,... will be disabled.||Se disabiliti l'aggiornamento automatico anche l'anti ping alto, l'anti ban rustDB, l'anti VAC ban,... saranno disattivati. 
+Go to Family share owners Steam profile||Vai al profilo della condivisione familiare
+Kick||Butta fuori dal server
+Kick (with reason)||Butta fuori dal server (con motivo)
+Teleport me to this player||Teletrasportami a questo giocatore
+Teleport this player to me||Teletrasporta questo giocatore da me
+Clear from the list||Cancella dalla lista
+Copy family share ID||Copia SteamID della condivisione familiare
+Mute voice||Muta la voce
+Unmute voice||Smuta la voce
+Mute chat||Muta la chat
+Unmute chat||Smuta la chat
+Kick/Ban||Banna e butta fuori
+Mute/Unmute||Muta/Smuta
+Set marker||Marca con un colore
+Red||Rosso
+Green||Verde
+Light Green||Verde chiaro
+Teal||Verdone
+Yellow||Giallo
+Purple||Viola
+Orange||Arancio
+None||Nessuno
+IP Warning||Segnalazione IP
+Run search on||Cerca
+Teleport to||Teletrasporta a
+Reason :||Motivo :
+Are you sure ?||Sei certo ?
+List empty. First add items to the list.||La lista è vuota. Aggiungi prima degli oggetti alla lista.
+Type a save name||Dai un nome al salvataggio
+Name||Nome
+Configuration saved.||Configurazione salvata.
+Configuration <u>not</u> saved.||Configurazione <u>non</u> salvata.
+Invalid coordinates||Coordinate non valide
+Type a name for this place||Dai un nome a questo luogo
+This place already exists. Overwrite ?||Questo posto già esiste. Sovrascrivo ?
+Place saved.||Luogo salvato.
+Place <u>not</u> saved.||Luogo <u>non</u> salvato.
+Go to profile||Vai al profilo
+Unknown SteamID format||Formato SteamID sconosciuto
+User's details||Dettagli utente
+Display help||Mostra l'aiuto
+All commands||Tutti i comandi
+New||Nuovo
+User SteamID||SteamID dell'utente
+Username||Nome utente
+Unban anyone||Sbanna tutti
+Unban only players he banned||Sbanna solo i giocatori bannati da lui
+Mute||Muta
+Date||Data
+Command||Comando
+This tab can be used to configure powered players (moderators).<br>Fill the field 'User SteamId' with the SteamID of the desired player and tick the rights you want to give to them.<br><br><u>Rights</u> :<br><br>- Ban : if checked the powered user can ban any player.<br>- Unban anyone : If checked the powered user can unban any previously banned players.<br>- Unban only players he banned : if checked the powered user can unban only the players that he has banned himself.<br>- Kick : if checked the powered user can kick any player.<br>- Mute : if checked the powered user can mute/unmute any player.<br><br><u>How the powered users execute an action ingame</u> :<br><br>The powered users have to type in the game chat commands formated like this : <b>!ra &lt;action&gt; &lt;steamID&gt; &lt;reason&gt;</b>.<br><br><u>Some examples below</u> :<br><br>- Ban the player with the steamID 12345678912345678 : !ra ban 12345678912345678 reason<br>- Unban the player with the steamID 12345678912345678 : !ra unban 12345678912345678 reason<br>- Kick the player with the steamID 12345678912345678 : !ra kick 12345678912345678 reason.<br>- Mute the player with the steamID 12345678912345678 : !ra mute 12345678912345678 reason.<br>- Unmute the player with the steamID 12345678912345678 : !ra unmute 12345678912345678 reason.<br><br>Don't forget the reason parameter for every command or it won't be executed. All players will see the command displayed in the game chat but if they are not powered users themselves they won't be able to use any command.||Questo pannello può essere usato per configurare dei moderatori.<br>Riempi il campo 'SteamID dell'utente' ed attiva i poteri assegnati a questo giocatore.<br><br><i><b><u>Poteri</u></b></i> :<br><br>- <b>Banna</b> : l'utente può  bannare i giocatori.<br>- <b>Sbanna tutti</b> : può sbannare tutti i giocatori bannati in precedenza.<br>- <b>Sbanna solo i giocatori bannati da lui</b> : può sbannare solo i giocatori che sono stati bannati da lui.<br>- <b>Butta fuori dal server</b> : può buttare qualsiasi giocatore fuori dal server.<br>- <b>Muta</b> : può mutare/smutare i giocatori<br><br><i><b><u>Come il moderatore esegue un'azione in gioco</u></b></i> :<br><br>Il moderatore deve scrivere, nella chat, i comandi formattati in questo modo :<br> <i><b>!ra &lt;azione&gt; &lt;steamID&gt; &lt;motivo&gt;</b></i>.<br><br><i><b><u>Alcuni esempi</u></b></i> : <br><br>- Bannare il giocatore con lo SteamID 12345678912345678 :<br> <i><b>!ra ban 12345678912345678 motivo</b></i><br>- Sbannare il giocatore con lo SteamID 12345678912345678 :<br> <i><b>!ra unban 12345678912345678 motivo</b></i><br>- Buttare fuori dal server il giocatore con lo SteamID 12345678912345678 :<br> <i><b>!ra kick 12345678912345678 motivo</b></i>.<br>- Mutare il giocatore con lo steamID 12345678912345678 : <br><i><b>!ra mute 12345678912345678 motivo</b></i>.<br>- Smutare il giocatore con lo steamID 12345678912345678 : <br><i><b>!ra unmute 12345678912345678 motivo</b></i>.<br><br><i>Non dimenticare di specificare il motivo o il comando non verrà eseguito.<br>Tutti i giocatori possono vedere il comando nella chat ma se non sono moderatori i loro comandi non saranno eseguiti.</i>
+The username field cannot be empty.||Il campo <b>nome utente</b> non può essere vuoto.
+The username already exists.||L'utente già esiste.
+The SteamId field cannot be empty.||Il campo <b>SteamID</b> non può essere vuoto.
+No permission selected.||Nessun potere assegnato.
+This SteamId is already configured||Questo SteamID è già configurato.
+Type a command to add||Scrivi un comando da aggiungere
+Commands list (right click on a command to execute)||Elenco comandi (click destro su un comando per eseguirlo)
+The command field cannot be empty.||Il campo <b>comando</b> non può essere vuoto.
+Run||Esegui
+The connection with the server has been lost. RustAdmin is trying to reconnect. Close this dialog to stop the reconnection process.||Si è persa la connessione col server. Rustadmin sta tentando di riconnettersi. Chiudi questo dialogo per fermare il processo di riconnessione.
+Connection lost||Connessione persa
+Every day||Tutti i giorni
+Periodic||Periodico
+Once||Una volta
+Time / Period||Ora / Periodo
+Commands||Comandi
+Type||Tipo
+You can execute several commands at once. Just seperate them with a ';'.||È possibile eseguire più comandi insieme, basta separarli con ';'.
+Create command||Crea comando
+Edit scheduled command||Modifica comando pianificato
+Create new scheduled command||Crea nuovo comando pianificato
+Incorrect command.||Comando errato.
+The command will never be executed because the hour is in the past.||Il comando non verrà mai eseguito perché programmato nel passato.
+General||Settaggi generali
+Anti cheat||Anti cheater
+Anti chat abuse||Anti abusi in chat
+Others||Altri
+Remote webclient||Webclient remoto
+Configure the remote access port and the remote access password if you want to connect to this RustAdmin instance from||Configura la password e la porta per l'accesso remoto se vuoi connetterti a questo Rustadmin da
+Remote access password||Password accesso remoto
+Remote access port||Porta per l'accesso remoto
+You must disconnect RustAdmin from the server before you can make any changes in the configuration||Scollega RustAdmin dal server per poter modificare la configurazione
+New configuration||Nuova configurazione
+Anti unauthorised admins||Anti admin non autorizzati
+Enter below the list of your admins/moderators SteamIDs. The SteamIDs must be seperated with a ';'. If you enable the checkbox above, all players getting Auth level 1 or 2 will be banned if their SteamID is not in this list.||Metti qui sotto l'elenco degli SteamIDs deli admin/moderatori del server. Gli SteamIDs devono essere separati con un ';'.<br>Se la funzione è attivata tutti i giocatori che si attribuiscono un livello di autorizzazione 1 o 2 saranno bannati se il loro SteamID non è nell'elenco.
+Anti high ping||Anti ping alto
+Write warnings in chat (may cause lag)||Avvisa in chat (può causare lag)
+Ping max||Ping massimo
+Number of warnings||Numero degli avvertimenti<br>(0 = buttato fuori immediatamente)
+Other||Altro
+Enable server FPS graph. Refresh interval X seconds||Attiva il grafico degli FPS del server. Aggiornato ogni X secondi
+My STEAMID||Mio SteamID
+Notify when 'admin' is pronounced by a player||Notifica quando 'admin' è pronunciato da un giocatore
+Prefix 'SERVER CONSOLE' messages with my nickname||Poni il mio nickname prima del messaggio 'SERVER CONSOLE'
+UTF8 mode||Modalità UTF8
+Get the server time periodically||Prendi periodicamente l'ora del server
+Anticheat whitelist||Esclusioni anticheat
+Enter below the list of steam IDs not affected by any Rustadmin's anticheat system. The steam IDs must be seperated with a ';'.||Scrivi qui sotto la lista degli SteamIDs che saranno ignorati dai sistemi anticheat di RustAdmin (separa gli SteamIDs con ';' )
+Anticheat||Anticheat
+Autokick players without any SteamID||Butta fuori automaticamente i giocatori senza SteamID
+Autokick players using Family Share||Butta fuori automaticamente i giocatori che usano la condivisione familiare
+Autoban players who kill at an invalid range according to the weapon they are using||Banna i giocatori che uccidono fuori dalla portata dell'arma in uso
+Check family share owner account for VAC or RustAdminDB bans||Controlla se il profilo della condivisione familiare ha ban VAC o RustAdmin
+Autoban players with more than X VAC bans||Ban automatico per i giocatori con più di X VAC ban
+Autoban players with less than X days since last VAC ban||Ban automatico per i giocatori con meno di X giorni dall'ultimo VAC ban
+Autoban players with more than X RustAdminDB bans||Ban automatico per i giocatori con più di X ban RustAdmin
+Autoban players with more than X violations||Ban automatico per i giocatori con più di X violazioni
+When a player is banned, also ban his IP for X hours||Quando un giocatore è bannato: banna anche l'IP per X ore 
+Autokick players with less than X hours on reccord||Butta fuori dal server i giocatori con meno di X ore
+Anti bad language||Anti cattivo linguaggio
+Words list||Lista parole/frasi
+Regex||Espressione regolare (Regex)
+Number of warning(s) (0 = instant kick)||Numero degli avvertimenti (0 = buttato fuori immediatamente)
+Enter below the list of words leading to a kick (';' separated)||Scrivi qui sotto le parole/frasi che fanno buttare fuori dal server (separale con ';' )
+Set below the kick reason||Scrivi sotto il motivo per cui si viene buttati fuori
+RCON type||Tipo di RCON
+Legacy||Legacy
+Experimental||Experimental
+Experimental (WebRcon)||Experimental (WebRcon)
+Anti chat spam||Anti spam in chat
+Simple||Semplice
+Advanced||Avanzato
+Analyze XX last messages for each player||Analizza gli ultimi XX messaggi<br>di ogni giocatore
+Violation detected if message rate exceeds XX per 10 seconds||Rileva violazione se si inviano<br>più di XX messaggi in 10 secondi
+Violation detected if the same message is posted more than XX times||Rileva violazione se lo stesso messaggio è scritto più di XX volte
+Maximum violations acceptable||Massime violazioni possibili
+You can use the following markers in the commands||È possibile utilizzare i seguenti <b>identificatori</b> nei comandi
+Each time a violation is detected the player get kicked||Ogni volta che viene rilevata una violazione butta fuori il giocatore
+After XX violations (set the threshold in the field opposite) the player is banned||Dopo XX violazioni (metti il valore nel campo "<i> Massime violazioni possibili</i> ") il giocatore è bannato
+Execute the command below as first violation warning||Esegui il comando sottostante alla prima violazione
+Execute the command below as warning between the first and the last violation||Esegui il comando sottostante tra la prima e l'ultima violazione
+Execute the command below after the last warning||Esegui il comando sottostante al raggiungimento delle massime violazioni possibili
+Auto connect at startup||Collegati automaticamente all'avvio
+Auto reconnect||Ricollegati automaticamente
+Query port||Query port
+Server port||Porta del server
+Chat message regex||Espressione regolare per i messaggi di chat
+Configure the regex used to parse chat messages below. You should not change this setting unless you know exactly what you are doing.||Configura l'espressione regolare usata per analizzare i messaggi di chat. Non cambiare questo settaggio se non sai esattamente cosa stai facendo.
+Choose a preset example||Scegli un esempio standard
+Players Whitelist||Whitelist giocatori
+Enter the SteamID's of people allowed to join the server below. If someone tries to join the server and his SteamID is not in this list then he will get kicked instantly. The SteamID's must be seperated with a ';'.||Scrivi qui sotto gli SteamID dei giocatori che possono entrare nel server.<br>Se qualcuno prova ad entrare ed il suo SteamID non è nella lista verrà immediatamente buttato fuori.<br>Separa gli SteamID con ';'.
+Anti invalid char in name||Anti caratteri non validi nel nome
+Autokick players with a character in their name that RustAdmin cannot deal with||Butta fuori automaticamente i giocatori che hanno nel nome dei caratteri non gestibili da RustAdmin
+Rcon port||Porta Rcon
+Enter below the regular expression. Syntax on||Immetti sotto l'espressione regolare. Sintassi su
+The server is running in whitelist mode. You are not allowed to join it right now.||Il server sta funzionando in modalità whitelist. Per ora non hai il permesso di entrare.
+Your name contains some invalid characters. Change it to play on this server.||Il tuo nome ha dei caratteri non validi. Cambiali se vuoi giocare in questo server.
+Bad language.||Parla meglio...
+Incorrect chat regular expression entered. Fix it before saving the configuration.||Espressione regolare non corretta. Correggila prima di salvare la configurazione.
+Configuration name||Nome della configurazione
+Type a name for the configuration||Metti un nome alla configurazione
+Warning !||Attenzione !
+Your bad language regular expression syntax is incorrect. The anti bad language check will be disabled.||L'espressione regolare per l'anti cattivo linguaggio è sbagliata.<br>L'anti cattivo linguaggio verrà disabilitato.
+Test your regular expression syntax on||Prova la sintassi delle tue espressioni regolari su
+The regular expression is invalid.||L'espressione regolare non è valida.
+The regular expression does not contain the named group||L'espressione regolare non contiene il gruppo denominato
+The regular expression looks correct||L'espressione regolare sembra corretta
+Send kills events to game chat||Invia le morti in chat
+Clear All data||Cancella tutti i dati
+Message format||Formato del messaggio
+Kills events blacklist. Add in the list below the kills events that you don't want to be sent in the chat console.||<b>Lista degli eventi di morte esclusi.</b><br>Aggiungi alla lista qui sotto gli eventi che non dovranno essere inviati in chat.
+Special thanks to ||Grazie a 
+ for their support which helped me to develop this module.|| per il loro aiuto che mi ha permesso di sviluppare questo modulo.
+ for their support which helped me to develop this module.<br><br>This tab gives you an access to the players statistics.<br><br><b>Warning ! Due to frequent server updates, some statistics may be broken</b>.<br><br>Rustadmin gives you the possibility to display these statistics on a website or anywhere else. To do this, rustadmin opens a port on your computer (8888 by default that you can tweak in the settings.ini file) on which you can send http requests.<br><br><u>List of endpoints implemented</u> :<br><br>- http://localhost:8888/getPlayersGlobalStats returns json formated data about all statistics for all players (except details about kills and deaths).<br><br>- http://localhost:8888/getPlayerGlobalStats?id=78945612378945612 returns json formated data about the statistics of the given player steamID (except details about kills and deaths).<br><br>- http://localhost:8888/getPlayerKillsHistory?ids=78945612378945612;78945612312345678 returns json formated data about kills and deaths of the given players steamIDs.|| per il loro aiuto che mi ha permesso di sviluppare questo modulo.<br><br>Questo pannello dà accesso alle statistiche dei giocatori.<br><br><b>Attenzione! A causa dei frequenti aggiornamenti del server alcune statistiche possono non esserci o non funzionare più</b>.<br><br>RustAdmin dà la possibilità di pubblicare queste statistiche su un sito web o altrove. Per farlo, RustAdmin apre una porta sul vostro computer (8888 di default che potete cambiare nel file settings.ini) sulla quale è possibile inviare delle richieste http.<br><br><u>Lista delle richieste implementate</u> :<br><br>- <b>http://localhost:8888/getPlayersGlobalStats</b><br>ritorna, in formato json, le statistiche di tutti i giocatori (senza i dettagli di uccisioni e morti).<br><br>- <b>http://localhost:8888/getPlayerGlobalStats?id=78945612378945612</b><br>ritorna, in formato json, le statistiche del giocatore a cui appartiene lo SteamID 78945612378945612 (senza i dettagli di uccisioni e morti).<br><br>- <b>http://localhost:8888/getPlayerKillsHistory?ids=78945612378945612;78945612312345678</b><br>ritorna, in formato json, le statistiche di uccisioni e morti del giocatore con lo SteamIDs usato.<br>Per ogni SteamID si ottengono due tabelle: una col l'elenco dei giocatori che sono stati uccisi da quello SteamID, l'altra con i giocatori che hanno ucciso quello SteamID.
+Delete all player's data||Cancella tutte le statistiche del giocatore
+Are you sure ? This operation cannot be undone.||Sicuro? Questa operazione non può essere annullata.
+players||giocatori
+No data||Nessun dato
+Unable to find the server's name||Impossibile trovare il nome del server
+Unable to find players count||Impossibile contare i giocatori 
+Error in line||Errore nella linea
+M||M
+Country||Nazione
+Bans VAC||VAC Ban
+Game Bans||Ban nei registri
+Family share||Condiv. familiare
+Violations||Violazioni
+Hours on Record||Ore di gioco
+Hours on the server||Ore nel server
+Ping||Ping
+Last connection||Ultima connessione
+Marker associated with the player||Marker associato col giocatore
+Player's SteamID||SteamID del giocatore
+Country where the player's IP is located||Nazione dove è localizzato l'IP del giocatore
+Player's nickname||Nickname del giocatore
+Number of VAC ban(s) and the number of days since the last one.||Numero dei VAC ban e giorni dall'ultimo ban
+Number of Game bans(s)||Numero dei ban degli sviluppatori
+Number of ban(s) recorded on www.rustadmin.com||Numero dei ban registrati su www.rustadmin.com
+Is this account a Family shared one||Se il giocatore sta usando la condivisione familiare
+Show the violations indicator sent by the server. A high number could indicate that the player is speedhacking, jumphacking or noclipping||Mostra le violazioni rilevate dal server. Un numero alto può indicare che il giocatore sta usando cheat
+Total hours that the player has spent on Rust||Ore passate dal giocatore su Rust
+Total (estimated) hours that the player has spent on your server||Totale stimato delle ore che il giocatore ha passato sul server
+Player's ping||Ping del giocatore
+Total time since players last connection||Tempo trascorso nel server dal giocatore in questa connessione
+Player's IP||IP del giocatore
+Player's last disconnection||Ultima disconnessione del giocatore
+Private profile||Profilo privato
+Event type||Tipo di evento
+Command(s)||Comando/i
+Player SteamID||SteamID giocatore
+Any|Qualsiasi
+Chat text regexp||Regexp testo in chat
+Chat text||Testo in chat
+Population threshold||Soglia popolazione
+Commands to execute over ||Comandi da eseguire oltre 
+Commands to execute under ||Comandi da eseguire sotto 
+On user logon||Alla connessione dell'utente
+On user logoff||Alla disconnessione dell'utente
+On chat text||Se scrive in chat
+On helicopter drop||All'arrivo dell'elicottero
+On cargo plane drop||All'arrivo dell'aereo
+On population changed||Al cambio della popolazione
+Unknown||Sconosciuto
+The field above contains a regex||Il campo sottostante contiene un'espressione regolare
+Execute only for the player||Esegui solo per il giocatore
+Execute only if the chat text is||Esegui solo se il testo in chat è
+Command(s) to be executed under the population threshold||Comando(i) da eseguire sotto la soglia di popolazione
+Command(s) to be executed over the population threshold||Comando(i) da eseguire sopra la soglia di popolazione
+Command(s) to be executed||Comando(i) da eseguire
+Command cooldown in secconds||Intervallo comando in secondi
+The value 0 means no cooldown, the command is executed as often as it is trigggered.||Il valore 0 significa senza intervallo e viene eseguito ad ogni attivazione.
+Type the command(s). Separate them with a ';'.||Immetti comando/i. Separali con un ';'.
+Type the player's SteamID triggering the command. Leave this field empty to trigger on any players.||Metti lo SteamID che attiva il comando, lascia vuoto per tutti.
+Type the chat text triggering the command. Leave this field empty to trigger on any chat text.||Metti il testo che attiva il comando, lascia vuoto per qualsiasi testo.
+New triggered command||Nuovo comando attivato da eventi
+Edit triggered command||Modifica comando attivato da eventi
+This feature can be used to execute commands when a given game event occurs.||Questa funzione può essere usata per eseguire comandi all'accadere degli eventi specificati
+You can use||Puoi usare
+or||o
+in your command. They will be replaced with the ID/the name of the player before to be executed.||nei tuoi comandi. Essi verranno sostituiti con l' ID/Nome del giocatore prima di essere eseguiti.
+<u>Some examples below</u> :||<u><i>Alcuni esempi sotto</u> :</i>
+If you want to say hello when a player joins the server, type this text in the command field||<i>Se vuoi salutare un giocatore quando entra nel server, scrivi questo testo nel campo comandi</i>
+If you want to give an apple to a player joining the server, type this text in the command field||<i>Se vuoi dare una mela ad un giocatore quando si collega nel server, scrivi questo testo nel campo comandi</i>
+Commands to be executed over and under the population threshold can't be both empty.||I comandi da eseguire sopra o sotto la soglia della popolazione non possono essere lasciati entrambi vuoti.
+Invalid SteamID entered. The field must be left empty or must contain a 17 digits SteamID.||Immesso uno SteamID non valido<br>Il campo deve essere lasciato vuoto o contenere i 17 numeri dello SteamID
+Invalid or empty regular expression entered.||Hai immesso una espressione regolare vuota o non valida.
+You can now visit||Ora potete visitare
+to get the last RustAdmin version.||per prendere l'ultima versione di RustAdmin.
+The RustAdmin's webclient is also available at||È anche disponibile la versione web di RustAdmin all'indirizzo
+Start automatic update||Avvia aggiornamento automatico
+is a free software developped by ||è un programma gratuito sviluppato da 
+All support requests should be posted at ||Tutte le domande di supporto dovranno essere inviate a 
+this link||questo link
+Nowadays, I don't play Rust anymore but I do still maintain RustAdmin and try to implement the majority of all your requested features.||Attualmente io non gioco più a Rust ma continuo a sviluppare RustAdmin e ad implementare la maggior parte delle vostre richieste.
+All donations would be greatly apreciated!||Tutte le donazioni sono molto gradite!
+The version ||La versione 
+ is available|| è disponibile
+Download link (manual install)||Download link (installazione manuale)
+Unable to get the last version number||Non posso recuperare il numero dell'ultima versione
+Send||Invia
+ (%1 day(s) ago)|| (%1 giorno/i fa)
+Kills||Uccisioni
+Sleepers kills||Dormienti uccisi
+Killed by player||Ucciso da giocatore
+Suicides||Suicidi
+Bleedings||Sanguinamenti
+Drowing||Affogamenti
+Hunger||Fame
+Thirst||Sete
+Cold||Freddo
+Heat||Caldo
+Falls||Cadute
+Poison||Avvelenamento
+Wolf||Lupi
+Bear||Orsi
+Campfire||Fuoco da campo
+Floor spikes||Spine terra
+Bear trap||Trappola orsi
+Metal Barricade||Barricata metallo
+Wooden Barricade||Barricate legno
+Barbed Wooden Barricade||Barricata legno spinato
+Stone external high wall||Muro alto in pietra
+Code Lock||Serratura a codice
+Explosion||Esplosione
+Landmine||Mina
+Incendiary Damage||Danno incendiario
+Rocket Fire||Razzo incendiario
+Rocket||Razzo
+High Velocity Rocket||Razzo alta velocità

@@ -1,0 +1,5 @@
+- include: rs-core.yaml
+- include: rs-filecopy.yaml
+- include: rs-steam.yaml
+- include: rs-server-install.yaml
+- include: rs-rustadmin-install.yaml

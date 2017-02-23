@@ -1,0 +1,35 @@
+#jinja2: newline_sequence:'\r\n'
+@echo off
+:start
+C:
+cd\RustServer\
+echo.
+echo Checking to ensure we have the latest server version from steam...
+echo.
+C:\RustServer\steamcmd\steamcmd.exe +login anonymous +force_install_dir c:\RustServer\ +app_update 258550 +quit
+echo.
+echo Launching Rust server...
+echo.
+RustDedicated.exe^
+ -batchmode^
+ -nographics^
+ -silent-crashes^
+ +rcon.port 28016^
+ +rcon.password "{{ lookup('ini','rconPassword section=RustServer file=/home/dcadmin/secure.ini') }}"^
+ +rcon.web "1"^
+ +batching.colliders false^
+ +server.seed {{ range(100000,999999) | random }}^
+ +server.identity "server1_data"^
+ -load
+echo.
+echo Server execution completed.  Pausing before restarting.
+echo.
+choice /T 10 /C cn /D n /N /M "Press C to cancel auto upgrade and restart..."
+if "%ERRORLEVEL%" == "1" goto exit
+echo.
+echo Restarting server now.
+echo.
+goto start
+:exit
+echo.
+echo Auto upgrade and restart cancelled, execution completed.

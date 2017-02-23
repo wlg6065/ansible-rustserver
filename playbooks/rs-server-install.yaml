@@ -1,0 +1,19 @@
+- name: Install Rust Server
+  hosts: rust4
+  vars:
+    app_id: 258550
+    app_description: Rust Server
+    app_installdir: c:\RustServer\
+    app_creates: C:\RustServer\RustDedicated.exe
+  tasks:
+    - name: Install {{ app_description }} with steamcmd app_update {{ app_id }}
+      win_shell: C:\RustServer\steamcmd\steamcmd.exe +login anonymous +force_install_dir {{ app_installdir }} +app_update {{ app_id }} +quit
+      args:
+        creates: "{{ app_creates }}"
+      register: shell_output
+      failed_when: shell_output.rc >= 2
+    - name: Add firewall exception for {{ app_description }}
+      include: rs-add-firewall-exception.yaml
+      vars:
+        fw_description: "{{ app_description }}"
+        fw_program: "{{ app_creates }}"

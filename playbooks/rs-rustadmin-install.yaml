@@ -1,0 +1,8 @@
+- name: Setup RustAdmin GUI
+  hosts: rust4
+  tasks:
+    - name: Add firewall exception for RustAdmin GUI
+      include: rs-add-firewall-exception.yaml
+      vars:
+        fw_description: RustAdmin GUI
+        fw_program: C:\Users\dcadmin\Desktop\RustAdminRelease\RustAdmin.exe

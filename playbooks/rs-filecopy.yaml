@@ -1,0 +1,7 @@
+- name: Copy Rust Server files
+  hosts: rust4
+  tasks:
+    - name: Copy file tree to server
+      win_copy:
+        src: /ansible-rustserver/files/rust-server-v1/C:/
+        dest: C:\
