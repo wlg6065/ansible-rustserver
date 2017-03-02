@@ -1,9 +1,10 @@
 - name: Wipe Rust Server
-  hosts: rust4
+  hosts: "{{ target }}"
   tasks:
     - name: Delete world files and user data
       script: /ansible-rustserver/scripts/deltree-except.ps1 -path "C:\RustServer\server\server1_data" -exclude "\\cfg\\|\\cfg"
       register: out
+    - debug: var=out
     - name: Copy configuration file template
       win_template:
         src: /ansible-rustserver/templates/server.cfg.j2

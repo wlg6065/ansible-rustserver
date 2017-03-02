@@ -6,4 +6,4 @@ Get-ChildItem -Path $path -Recurse |
 Select -ExpandProperty FullName |
 Where {$_ -NotMatch $exclude } |
 sort length -Descending |
-Remove-Item -force
+Remove-Item -Verbose -force
